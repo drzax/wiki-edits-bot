@@ -1,0 +1,19 @@
+{
+  "name": "wiki-edits-bot",
+  "module": "go.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "better-sqlite3": "^8.6.0",
+    "masto": "^6.3.3",
+    "zod": "^3.22.2"
+  },
+  "scripts": {
+    "build": "bun build ./go.ts --compile --outfile go"
+  }
+}
