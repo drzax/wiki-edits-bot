@@ -1,0 +1,159 @@
+{
+  "ts": 1698563576024,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "164.75.0.0/20",
+          "ip": "164.75.0.0",
+          "cidr": 20,
+          "roa_status": "None",
+          "name": "DPS",
+          "description": "Department of Parliamentary Services",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "164.75.0.0/16",
+            "ip": "164.75.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "164.75.4.0/24",
+          "ip": "164.75.4.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DPS",
+          "description": "Department of Parliamentary Services",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "164.75.0.0/16",
+            "ip": "164.75.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "164.75.8.0/24",
+          "ip": "164.75.8.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DPS",
+          "description": "Department of Parliamentary Services",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "164.75.0.0/16",
+            "ip": "164.75.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "164.75.9.0/24",
+          "ip": "164.75.9.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DPS",
+          "description": "Department of Parliamentary Services",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "164.75.0.0/16",
+            "ip": "164.75.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "164.75.10.0/24",
+          "ip": "164.75.10.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DPS",
+          "description": "Department of Parliamentary Services",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "164.75.0.0/16",
+            "ip": "164.75.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "164.75.16.0/20",
+          "ip": "164.75.16.0",
+          "cidr": 20,
+          "roa_status": "None",
+          "name": "DPS",
+          "description": "Department of Parliamentary Services",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "164.75.0.0/16",
+            "ip": "164.75.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "164.75.64.0/20",
+          "ip": "164.75.64.0",
+          "cidr": 20,
+          "roa_status": "None",
+          "name": "DPS",
+          "description": "Department of Parliamentary Services",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "164.75.0.0/16",
+            "ip": "164.75.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "164.75.80.0/20",
+          "ip": "164.75.80.0",
+          "cidr": 20,
+          "roa_status": "None",
+          "name": "DPS",
+          "description": "Department of Parliamentary Services",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "164.75.0.0/16",
+            "ip": "164.75.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "164.75.96.0/20",
+          "ip": "164.75.96.0",
+          "cidr": 20,
+          "roa_status": "None",
+          "name": "DPS",
+          "description": "Department of Parliamentary Services",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "164.75.0.0/16",
+            "ip": "164.75.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "202.14.81.0/24",
+          "ip": "202.14.81.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DPS",
+          "description": "Department of Parliamentary Services",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "202.14.81.0/24",
+            "ip": "202.14.81.0",
+            "cidr": 24,
+            "rir_name": "APNIC"
+          }
+        }
+      ]
+    }
+  }
+}

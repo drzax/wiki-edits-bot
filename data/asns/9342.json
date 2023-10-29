@@ -1,0 +1,69 @@
+{
+  "ts": 1698563531880,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "144.218.0.0/16",
+          "ip": "144.218.0.0",
+          "cidr": 16,
+          "roa_status": "Valid",
+          "name": "ABC-AU",
+          "description": "Australian Broadcasting Corporation",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "144.218.0.0/16",
+            "ip": "144.218.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "169.201.0.0/16",
+          "ip": "169.201.0.0",
+          "cidr": 16,
+          "roa_status": "Valid",
+          "name": "ABC-AU",
+          "description": "Australian Broadcasting Corporation",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "169.201.0.0/16",
+            "ip": "169.201.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "202.6.74.0/24",
+          "ip": "202.6.74.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "ABC1",
+          "description": "Australian Broadcasting Commission",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "202.6.74.0/24",
+            "ip": "202.6.74.0",
+            "cidr": 24,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "203.2.218.0/24",
+          "ip": "203.2.218.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "ABC-AU",
+          "description": "Australian Broadcasting Commission",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.2.218.0/24",
+            "ip": "203.2.218.0",
+            "cidr": 24,
+            "rir_name": "APNIC"
+          }
+        }
+      ]
+    }
+  }
+}

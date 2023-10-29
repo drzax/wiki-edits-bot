@@ -1,0 +1,33 @@
+name: toot on a schedule
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "55 2,5,8,15,17,20,23 * * *"
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out this repo
+        uses: actions/checkout@v3
+      - name: Setup Node JS
+        uses: actions/setup-node@v3
+        with:
+          node-version-file: ".tool-versions"
+          cache: "npm"
+      - run: npm ci
+      - run: npm run go
+        env:
+          NODE_ENV: "production"
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          URL: ${{ secrets.URL }}
+      - name: Commit and push if it changed
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Latest updates: ${timestamp}" || exit 0
+          git pull --rebase
+          git push

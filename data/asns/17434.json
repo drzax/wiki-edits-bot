@@ -1,0 +1,99 @@
+{
+  "ts": 1698563597238,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "103.75.132.0/24",
+          "ip": "103.75.132.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "RBA",
+          "description": "Reserve Bank of Australia",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "103.75.132.0/23",
+            "ip": "103.75.132.0",
+            "cidr": 23,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "103.75.133.0/24",
+          "ip": "103.75.133.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "RBA",
+          "description": "Reserve Bank of Australia",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "103.75.132.0/23",
+            "ip": "103.75.132.0",
+            "cidr": 23,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "202.14.155.0/24",
+          "ip": "202.14.155.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NETBLK-RBANET",
+          "description": "Reserve Bank of Australia",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "202.14.155.0/24",
+            "ip": "202.14.155.0",
+            "cidr": 24,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "202.14.156.0/24",
+          "ip": "202.14.156.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NETBLK-RBANET",
+          "description": "Reserve Bank of Australia",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "202.14.156.0/24",
+            "ip": "202.14.156.0",
+            "cidr": 24,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "203.8.222.0/24",
+          "ip": "203.8.222.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "RBA",
+          "description": "Australian Central Bank",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.8.222.0/24",
+            "ip": "203.8.222.0",
+            "cidr": 24,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "203.34.60.0/24",
+          "ip": "203.34.60.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "RESERVEBANKOFAU-AU",
+          "description": "Reserve Bank of Australia",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.34.60.0/24",
+            "ip": "203.34.60.0",
+            "cidr": 24,
+            "rir_name": "APNIC"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,19 +1,18 @@
 {
   "name": "wiki-edits-bot",
-  "module": "go.ts",
+  "module": "src/go.js",
   "type": "module",
   "devDependencies": {
-    "bun-types": "latest"
-  },
-  "peerDependencies": {
-    "typescript": "^5.0.0"
+    "@types/node": "^20.8.9",
+    "typescript": "^5.2.2"
   },
   "dependencies": {
-    "better-sqlite3": "^8.6.0",
     "masto": "^6.3.3",
     "zod": "^3.22.2"
   },
   "scripts": {
-    "build": "bun build ./go.ts --compile --outfile go"
+    "act": "act workflow_dispatch --secret-file .env --container-architecture linux/amd64",
+    "go": "node --enable-source-maps src/go.js",
+    "dev": "node --enable-source-maps src/go.js --dry"
   }
 }

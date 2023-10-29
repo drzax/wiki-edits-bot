@@ -1,0 +1,24 @@
+{
+  "ts": 1698563600973,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "203.20.18.0/24",
+          "ip": "203.20.18.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NATGALLERY-AU",
+          "description": "National Gallery of Australia",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.20.18.0/23",
+            "ip": "203.20.18.0",
+            "cidr": 23,
+            "rir_name": "APNIC"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "ts": 1698563586019,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "144.55.52.0/23",
+          "ip": "144.55.52.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "ASIC-AU",
+          "description": "AUSTRALIAN SECURITIES & INVESTMENTS COMMISSION",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "144.55.0.0/16",
+            "ip": "144.55.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "144.55.52.0/24",
+          "ip": "144.55.52.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "ASIC-AU",
+          "description": "AUSTRALIAN SECURITIES & INVESTMENTS COMMISSION",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "144.55.0.0/16",
+            "ip": "144.55.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "144.55.54.0/24",
+          "ip": "144.55.54.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "ASIC-AU",
+          "description": "AUSTRALIAN SECURITIES & INVESTMENTS COMMISSION",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "144.55.0.0/16",
+            "ip": "144.55.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "144.55.55.0/24",
+          "ip": "144.55.55.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "ASIC-AU",
+          "description": "AUSTRALIAN SECURITIES & INVESTMENTS COMMISSION",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "144.55.0.0/16",
+            "ip": "144.55.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "144.55.56.0/23",
+          "ip": "144.55.56.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "ASIC-AU",
+          "description": "AUSTRALIAN SECURITIES & INVESTMENTS COMMISSION",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "144.55.0.0/16",
+            "ip": "144.55.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "144.55.66.0/23",
+          "ip": "144.55.66.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "ASIC-AU",
+          "description": "AUSTRALIAN SECURITIES & INVESTMENTS COMMISSION",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "144.55.0.0/16",
+            "ip": "144.55.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "144.55.67.0/24",
+          "ip": "144.55.67.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "ASIC-AU",
+          "description": "AUSTRALIAN SECURITIES & INVESTMENTS COMMISSION",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "144.55.0.0/16",
+            "ip": "144.55.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "144.55.68.0/23",
+          "ip": "144.55.68.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "ASIC-AU",
+          "description": "AUSTRALIAN SECURITIES & INVESTMENTS COMMISSION",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "144.55.0.0/16",
+            "ip": "144.55.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "144.55.68.0/24",
+          "ip": "144.55.68.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "ASIC-AU",
+          "description": "AUSTRALIAN SECURITIES & INVESTMENTS COMMISSION",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "142.148.128.0/17",
+            "ip": "142.148.128.0",
+            "cidr": 17,
+            "rir_name": "ARIN"
+          }
+        },
+        {
+          "prefix": "144.55.69.0/24",
+          "ip": "144.55.69.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "ASIC-AU",
+          "description": "AUSTRALIAN SECURITIES & INVESTMENTS COMMISSION",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "144.55.0.0/16",
+            "ip": "144.55.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "144.55.70.0/23",
+          "ip": "144.55.70.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "ASIC-AU",
+          "description": "AUSTRALIAN SECURITIES & INVESTMENTS COMMISSION",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "144.55.0.0/16",
+            "ip": "144.55.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "144.55.70.0/24",
+          "ip": "144.55.70.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "ASIC-AU",
+          "description": "AUSTRALIAN SECURITIES & INVESTMENTS COMMISSION",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "144.55.0.0/16",
+            "ip": "144.55.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "144.55.71.0/24",
+          "ip": "144.55.71.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "ASIC-AU",
+          "description": "AUSTRALIAN SECURITIES & INVESTMENTS COMMISSION",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "144.55.0.0/16",
+            "ip": "144.55.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "144.55.134.0/23",
+          "ip": "144.55.134.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "ASIC-AU",
+          "description": "AUSTRALIAN SECURITIES & INVESTMENTS COMMISSION",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "144.55.0.0/16",
+            "ip": "144.55.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "144.55.135.0/24",
+          "ip": "144.55.135.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "ASIC-AU",
+          "description": "AUSTRALIAN SECURITIES & INVESTMENTS COMMISSION",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "144.55.0.0/16",
+            "ip": "144.55.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "144.55.136.0/23",
+          "ip": "144.55.136.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "ASIC-AU",
+          "description": "AUSTRALIAN SECURITIES & INVESTMENTS COMMISSION",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "144.55.0.0/16",
+            "ip": "144.55.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "144.55.136.0/24",
+          "ip": "144.55.136.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "ASIC-AU",
+          "description": "AUSTRALIAN SECURITIES & INVESTMENTS COMMISSION",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "141.136.128.0/17",
+            "ip": "141.136.128.0",
+            "cidr": 17,
+            "rir_name": "RIPE"
+          }
+        },
+        {
+          "prefix": "144.55.137.0/24",
+          "ip": "144.55.137.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "ASIC-AU",
+          "description": "AUSTRALIAN SECURITIES & INVESTMENTS COMMISSION",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "140.91.0.0/16",
+            "ip": "140.91.0.0",
+            "cidr": 16,
+            "rir_name": "ARIN"
+          }
+        },
+        {
+          "prefix": "144.55.138.0/23",
+          "ip": "144.55.138.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "ASIC-AU",
+          "description": "AUSTRALIAN SECURITIES & INVESTMENTS COMMISSION",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "138.99.60.0/22",
+            "ip": "138.99.60.0",
+            "cidr": 22,
+            "rir_name": "Lacnic"
+          }
+        },
+        {
+          "prefix": "144.55.138.0/24",
+          "ip": "144.55.138.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "ASIC-AU",
+          "description": "AUSTRALIAN SECURITIES & INVESTMENTS COMMISSION",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "144.55.0.0/16",
+            "ip": "144.55.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "144.55.139.0/24",
+          "ip": "144.55.139.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "ASIC-AU",
+          "description": "AUSTRALIAN SECURITIES & INVESTMENTS COMMISSION",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "144.55.0.0/16",
+            "ip": "144.55.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        }
+      ]
+    }
+  }
+}

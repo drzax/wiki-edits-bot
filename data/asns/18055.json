@@ -1,0 +1,249 @@
+{
+  "ts": 1698563565590,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "103.45.254.0/23",
+          "ip": "103.45.254.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "DHSNET",
+          "description": "Department of Human Services",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "103.45.254.0/23",
+            "ip": "103.45.254.0",
+            "cidr": 23,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "161.146.160.0/24",
+          "ip": "161.146.160.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DHSNET-AU",
+          "description": "Department of Human Services",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "161.146.0.0/16",
+            "ip": "161.146.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "161.146.161.0/24",
+          "ip": "161.146.161.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DHSNET-AU",
+          "description": "Department of Human Services",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "161.146.0.0/16",
+            "ip": "161.146.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "161.146.192.0/19",
+          "ip": "161.146.192.0",
+          "cidr": 19,
+          "roa_status": "None",
+          "name": "DHSNET-AU",
+          "description": "Department of Human Services",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "161.146.0.0/16",
+            "ip": "161.146.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "161.146.224.0/20",
+          "ip": "161.146.224.0",
+          "cidr": 20,
+          "roa_status": "None",
+          "name": "DHSNET-AU",
+          "description": "Department of Human Services",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "161.146.0.0/16",
+            "ip": "161.146.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "161.146.235.0/24",
+          "ip": "161.146.235.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DHSNET-AU",
+          "description": "Department of Human Services",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "161.146.0.0/16",
+            "ip": "161.146.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "192.108.99.0/24",
+          "ip": "192.108.99.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "AEC",
+          "description": "imported inetnum object for AEC",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "192.108.99.0/24",
+            "ip": "192.108.99.0",
+            "cidr": 24,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "192.195.44.0/22",
+          "ip": "192.195.44.0",
+          "cidr": 22,
+          "roa_status": "None",
+          "name": "ERX-NETBLOCK",
+          "description": "Early registration addresses",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "192.195.44.0/24",
+            "ip": "192.195.44.0",
+            "cidr": 24,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "192.195.48.0/22",
+          "ip": "192.195.48.0",
+          "cidr": 22,
+          "roa_status": "None",
+          "name": "ERX-NETBLOCK",
+          "description": "Early registration addresses",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "192.195.48.0/24",
+            "ip": "192.195.48.0",
+            "cidr": 24,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "192.195.49.0/24",
+          "ip": "192.195.49.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DOTT-AU",
+          "description": "Department of the Treasury",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "192.195.49.0/24",
+            "ip": "192.195.49.0",
+            "cidr": 24,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "192.195.55.0/24",
+          "ip": "192.195.55.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "AUS-TREAS-12",
+          "description": "Department of the Treasury",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "192.195.55.0/24",
+            "ip": "192.195.55.0",
+            "cidr": 24,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "202.59.247.0/24",
+          "ip": "202.59.247.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DHSNET",
+          "description": "Department of Human Services",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "202.59.247.0/24",
+            "ip": "202.59.247.0",
+            "cidr": 24,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "203.13.0.0/20",
+          "ip": "203.13.0.0",
+          "cidr": 20,
+          "roa_status": "None",
+          "name": "DHSNET-AU",
+          "description": "Department of Human Services",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.13.0.0/20",
+            "ip": "203.13.0.0",
+            "cidr": 20,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "203.13.43.0/24",
+          "ip": "203.13.43.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "MDBA",
+          "description": "Murray-Darling Basin Authority",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.13.43.0/24",
+            "ip": "203.13.43.0",
+            "cidr": 24,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "203.80.58.0/23",
+          "ip": "203.80.58.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "DHSNET",
+          "description": "Department of Human Services",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.80.58.0/23",
+            "ip": "203.80.58.0",
+            "cidr": 23,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "203.217.150.0/23",
+          "ip": "203.217.150.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "DHSNET",
+          "description": "Department of Human Services",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.217.150.0/23",
+            "ip": "203.217.150.0",
+            "cidr": 23,
+            "rir_name": "APNIC"
+          }
+        }
+      ]
+    }
+  }
+}
