@@ -16,7 +16,7 @@ const STATE_FILE = resolve(
 );
 const POSTS_FILE = resolve(
   dirname(fileURLToPath(import.meta.url)),
-  "../data/posts.json"
+  "../data/posts.jsonl"
 );
 
 const go = async () => {
@@ -52,7 +52,10 @@ const go = async () => {
       accessToken: process.env.ACCESS_TOKEN,
     });
 
-  const postsFile = createWriteStream(POSTS_FILE, "utf-8");
+  const postsFile = createWriteStream(POSTS_FILE, {
+    encoding: "utf-8",
+    flags: "a",
+  });
 
   newContributions.forEach(async (d) => {
     const text = `Someone on a network controlled by ${d.prefix.description} (${d.contribution.user}) edited the ${d.contribution.title} Wikipedia page anonymously.\n\n${d.contribution.comment}\n\nhttps://en.wikipedia.org/w/index.php?diff=prev&oldid=${d.contribution.revid}`;
