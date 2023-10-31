@@ -1,7 +1,7 @@
 // @ts-check
 import { createRestAPIClient } from "masto";
 import { fetchPrefixes } from "./asns.js";
-import { federal as federalAsns } from "../data/asns.js";
+import { act, federal, nsw, nt, qld, sa, vic, wa } from "../data/asns.js";
 import { fetchContributions } from "./wikipedia.js";
 import { readFile, writeFile } from "fs/promises";
 import { State } from "./schemas.js";
@@ -24,7 +24,16 @@ const go = async () => {
   const state = JSON.parse(await readFile(STATE_FILE, "utf-8"));
   const { lastRun = now } = state;
 
-  const prefixes = fetchPrefixes(federalAsns);
+  const prefixes = fetchPrefixes([
+    ...federal,
+    ...qld,
+    ...nsw,
+    ...act,
+    ...wa,
+    ...nt,
+    ...sa,
+    ...vic,
+  ]);
   /** @type Awaited<ReturnType<typeof fetchContributions>> */
   const newContributions = [];
 
