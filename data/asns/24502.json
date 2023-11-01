@@ -1,0 +1,27 @@
+{
+  "ts": 1698819533015,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "203.26.90.0/24",
+          "ip": "203.26.90.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "PARLOFWA-AU",
+          "description": "Parliament Of Western Australia",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.26.91.0/24",
+          "ip": "203.26.91.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "PARLOFWA-AU",
+          "description": "Parliament Of Western Australia",
+          "country_code": "AU"
+        }
+      ]
+    }
+  }
+}

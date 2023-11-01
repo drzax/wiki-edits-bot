@@ -1,0 +1,54 @@
+{
+  "ts": 1698801108846,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "202.146.28.0/24",
+          "ip": "202.146.28.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "QUEENSLANDRAIL-AU",
+          "description": "QR Passenger Pty Ltd",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "202.146.28.0/22",
+            "ip": "202.146.28.0",
+            "cidr": 22,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "202.146.29.0/24",
+          "ip": "202.146.29.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "QUEENSLANDRAIL-AU",
+          "description": "QR Passenger Pty Ltd",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "202.146.28.0/22",
+            "ip": "202.146.28.0",
+            "cidr": 22,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "202.146.31.0/24",
+          "ip": "202.146.31.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "QUEENSLANDRAIL-AU",
+          "description": "QR Passenger Pty Ltd",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "202.146.28.0/22",
+            "ip": "202.146.28.0",
+            "cidr": 22,
+            "rir_name": "APNIC"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "ts": 1698801113256,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "103.78.185.0/24",
+          "ip": "103.78.185.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "QLGSB-AU",
+          "description": "Queensland Local Government Superannuation Board",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "103.78.185.0/24",
+            "ip": "103.78.185.0",
+            "cidr": 24,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "103.101.214.0/24",
+          "ip": "103.101.214.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "QLGSB-AU",
+          "description": "Queensland Local Government Superannuation Board",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "103.101.214.0/24",
+            "ip": "103.101.214.0",
+            "cidr": 24,
+            "rir_name": "APNIC"
+          }
+        }
+      ]
+    }
+  }
+}

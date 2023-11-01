@@ -1,0 +1,18 @@
+{
+  "ts": 1698819543546,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "136.154.0.0/16",
+          "ip": "136.154.0.0",
+          "cidr": 16,
+          "roa_status": "None",
+          "name": "MUSEUMOFVIC",
+          "description": "imported inetnum object for MUSEUM-1",
+          "country_code": "AU"
+        }
+      ]
+    }
+  }
+}

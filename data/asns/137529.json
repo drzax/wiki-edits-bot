@@ -1,0 +1,27 @@
+{
+  "ts": 1698819463004,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "103.118.122.0/24",
+          "ip": "103.118.122.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "SYDNEYOPERAHOUS-AU",
+          "description": "Sydney Opera House Trust",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.32.178.0/24",
+          "ip": "203.32.178.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "SYDNEYOPERAHOUS-AU",
+          "description": "Sydney Opera House Trust",
+          "country_code": "AU"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "ts": 1698819469440,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "103.51.40.0/24",
+          "ip": "103.51.40.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "LEGALAIDNSW-AU",
+          "description": "Legal Aid Commission of NSW",
+          "country_code": "AU"
+        }
+      ]
+    }
+  }
+}

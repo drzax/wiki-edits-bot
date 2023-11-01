@@ -1,0 +1,351 @@
+{
+  "ts": 1698819415934,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "147.200.0.0/23",
+          "ip": "147.200.0.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.0.0/24",
+          "ip": "147.200.0.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.1.0/24",
+          "ip": "147.200.1.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.12.0/24",
+          "ip": "147.200.12.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.12.0/23",
+          "ip": "147.200.12.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.13.0/24",
+          "ip": "147.200.13.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.22.0/24",
+          "ip": "147.200.22.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.22.0/23",
+          "ip": "147.200.22.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.23.0/24",
+          "ip": "147.200.23.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.26.0/24",
+          "ip": "147.200.26.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.26.0/23",
+          "ip": "147.200.26.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.27.0/24",
+          "ip": "147.200.27.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.28.0/24",
+          "ip": "147.200.28.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.28.0/23",
+          "ip": "147.200.28.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.29.0/24",
+          "ip": "147.200.29.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.34.0/23",
+          "ip": "147.200.34.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.34.0/24",
+          "ip": "147.200.34.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.35.0/24",
+          "ip": "147.200.35.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.36.0/24",
+          "ip": "147.200.36.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.36.0/23",
+          "ip": "147.200.36.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.37.0/24",
+          "ip": "147.200.37.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.40.0/23",
+          "ip": "147.200.40.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.41.0/24",
+          "ip": "147.200.41.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.172.0/23",
+          "ip": "147.200.172.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.172.0/24",
+          "ip": "147.200.172.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.173.0/24",
+          "ip": "147.200.173.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.198.0/23",
+          "ip": "147.200.198.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.199.0/24",
+          "ip": "147.200.199.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.244.0/24",
+          "ip": "147.200.244.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.244.0/23",
+          "ip": "147.200.244.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.245.0/24",
+          "ip": "147.200.245.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.250.0/24",
+          "ip": "147.200.250.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.250.0/23",
+          "ip": "147.200.250.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.200.251.0/24",
+          "ip": "147.200.251.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "163.189.7.0/24",
+          "ip": "163.189.7.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NSWROADS",
+          "description": "imported inetnum object for RTANA",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "163.189.47.0/24",
+          "ip": "163.189.47.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TRANSPORTFORNSW-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "163.189.217.0/24",
+          "ip": "163.189.217.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NSWROADS",
+          "description": "imported inetnum object for RTANA",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.9.151.0/24",
+          "ip": "203.9.151.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "SYDNEYTRAINS-AU",
+          "description": "Sydney Trains",
+          "country_code": "AU"
+        }
+      ]
+    }
+  }
+}

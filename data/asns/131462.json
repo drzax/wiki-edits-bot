@@ -1,0 +1,162 @@
+{
+  "ts": 1698819520875,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "151.130.29.0/24",
+          "ip": "151.130.29.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WALIA-NON-AU",
+          "description": "Western Australian Land Information Authority",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "151.130.33.0/24",
+          "ip": "151.130.33.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WALIA-NON-AU",
+          "description": "Western Australian Land Information Authority",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "151.130.35.0/24",
+          "ip": "151.130.35.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WALIA-NON-AU",
+          "description": "Western Australian Land Information Authority",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "151.130.37.0/24",
+          "ip": "151.130.37.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WALIA-NON-AU",
+          "description": "Western Australian Land Information Authority",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "151.130.39.0/24",
+          "ip": "151.130.39.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WALIA-NON-AU",
+          "description": "Western Australian Land Information Authority",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "151.130.40.0/24",
+          "ip": "151.130.40.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WALIA-NON-AU",
+          "description": "Western Australian Land Information Authority",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "151.130.41.0/24",
+          "ip": "151.130.41.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WALIA-NON-AU",
+          "description": "Western Australian Land Information Authority",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "151.130.43.0/24",
+          "ip": "151.130.43.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WALIA-NON-AU",
+          "description": "Western Australian Land Information Authority",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "151.130.46.0/24",
+          "ip": "151.130.46.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WALIA-NON-AU",
+          "description": "Western Australian Land Information Authority",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "151.130.49.0/24",
+          "ip": "151.130.49.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WALIA-NON-AU",
+          "description": "Western Australian Land Information Authority",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "151.130.50.0/24",
+          "ip": "151.130.50.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WALIA-NON-AU",
+          "description": "Western Australian Land Information Authority",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "151.130.53.0/24",
+          "ip": "151.130.53.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WALIA-NON-AU",
+          "description": "Western Australian Land Information Authority",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "151.130.54.0/24",
+          "ip": "151.130.54.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WALIA-NON-AU",
+          "description": "Western Australian Land Information Authority",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "151.130.55.0/24",
+          "ip": "151.130.55.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WALIA-NON-AU",
+          "description": "Western Australian Land Information Authority",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "151.130.56.0/24",
+          "ip": "151.130.56.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WALIA-NON-AU",
+          "description": "Western Australian Land Information Authority",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "151.130.57.0/24",
+          "ip": "151.130.57.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WALIA-NON-AU",
+          "description": "Western Australian Land Information Authority",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.11.121.0/24",
+          "ip": "203.11.121.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WALIA-NON-AU",
+          "description": "Western Australian Land Information Authority",
+          "country_code": "AU"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,639 @@
+{
+  "ts": 1698819479831,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "103.225.67.0/24",
+          "ip": "103.225.67.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WASCT-AU",
+          "description": "Western Australian Sports Centre Trust",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.76.54.0/24",
+          "ip": "147.76.54.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NEC-AU",
+          "description": "NEC Australia Pty Ltd",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.76.55.0/24",
+          "ip": "147.76.55.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NEC-AU",
+          "description": "NEC Australia Pty Ltd",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.76.60.0/24",
+          "ip": "147.76.60.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NEC-AU",
+          "description": "NEC Australia Pty Ltd",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.76.62.0/24",
+          "ip": "147.76.62.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NEC-AU",
+          "description": "NEC Australia Pty Ltd",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.76.63.0/24",
+          "ip": "147.76.63.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NEC-AU",
+          "description": "NEC Australia Pty Ltd",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.76.64.0/24",
+          "ip": "147.76.64.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NEC-AU",
+          "description": "NEC Australia Pty Ltd",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.76.65.0/24",
+          "ip": "147.76.65.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NEC-AU",
+          "description": "NEC Australia Pty Ltd",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.76.66.0/24",
+          "ip": "147.76.66.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NEC-AU",
+          "description": "NEC Australia Pty Ltd",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.76.99.0/24",
+          "ip": "147.76.99.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NEC-AU",
+          "description": "NEC Australia Pty Ltd",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.76.100.0/24",
+          "ip": "147.76.100.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NEC-AU",
+          "description": "NEC Australia Pty Ltd",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.76.101.0/24",
+          "ip": "147.76.101.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NEC-AU",
+          "description": "NEC Australia Pty Ltd",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "159.207.168.0/22",
+          "ip": "159.207.168.0",
+          "cidr": 22,
+          "roa_status": "None",
+          "name": "DPIRD-AU",
+          "description": "Department of Primary Industries and Regional Development",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "159.207.172.0/22",
+          "ip": "159.207.172.0",
+          "cidr": 22,
+          "roa_status": "None",
+          "name": "DPIRD-AU",
+          "description": "Department of Primary Industries and Regional Development",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "159.207.241.0/24",
+          "ip": "159.207.241.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DPIRD-AU",
+          "description": "Department of Primary Industries and Regional Development",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "159.207.243.0/24",
+          "ip": "159.207.243.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DPIRD-AU",
+          "description": "Department of Primary Industries and Regional Development",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "159.207.244.0/24",
+          "ip": "159.207.244.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DPIRD-AU",
+          "description": "Department of Primary Industries and Regional Development",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "165.118.0.0/16",
+          "ip": "165.118.0.0",
+          "cidr": 16,
+          "roa_status": "None",
+          "name": "DEPT-HEALTH-WA-AU",
+          "description": "Metropolitan Health Service",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "165.118.20.0/24",
+          "ip": "165.118.20.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPT-HEALTH-WA-AU",
+          "description": "Metropolitan Health Service",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "165.118.220.0/24",
+          "ip": "165.118.220.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPT-HEALTH-WA-AU",
+          "description": "Metropolitan Health Service",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "165.187.10.0/24",
+          "ip": "165.187.10.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WAPOL",
+          "description": "WESTERN AUSTRALIA POLICE",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "165.187.19.0/24",
+          "ip": "165.187.19.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WAPOL",
+          "description": "WESTERN AUSTRALIA POLICE",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "165.187.46.0/24",
+          "ip": "165.187.46.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WAPOL",
+          "description": "WESTERN AUSTRALIA POLICE",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "165.187.128.0/24",
+          "ip": "165.187.128.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WAPOL",
+          "description": "WESTERN AUSTRALIA POLICE",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "165.187.131.0/24",
+          "ip": "165.187.131.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WAPOL",
+          "description": "WESTERN AUSTRALIA POLICE",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "165.187.137.0/24",
+          "ip": "165.187.137.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WAPOL",
+          "description": "WESTERN AUSTRALIA POLICE",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "165.187.138.0/24",
+          "ip": "165.187.138.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WAPOL",
+          "description": "WESTERN AUSTRALIA POLICE",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "165.187.219.0/24",
+          "ip": "165.187.219.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WAPOL",
+          "description": "WESTERN AUSTRALIA POLICE",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "165.187.228.0/24",
+          "ip": "165.187.228.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WAPOL",
+          "description": "WESTERN AUSTRALIA POLICE",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "167.30.36.0/24",
+          "ip": "167.30.36.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DOTPAC-AU",
+          "description": "DEPARTMENT OF THE PREMIER AND CABINET",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "167.30.71.0/24",
+          "ip": "167.30.71.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DOTPAC-AU",
+          "description": "DEPARTMENT OF THE PREMIER AND CABINET",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "167.30.141.0/24",
+          "ip": "167.30.141.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DOTPAC-AU",
+          "description": "DEPARTMENT OF THE PREMIER AND CABINET",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "167.30.142.0/24",
+          "ip": "167.30.142.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DOTPAC-AU",
+          "description": "DEPARTMENT OF THE PREMIER AND CABINET",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "167.30.148.0/24",
+          "ip": "167.30.148.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DOTPAC-AU",
+          "description": "DEPARTMENT OF THE PREMIER AND CABINET",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "167.30.152.0/24",
+          "ip": "167.30.152.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DOTPAC-AU",
+          "description": "DEPARTMENT OF THE PREMIER AND CABINET",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "167.30.215.0/24",
+          "ip": "167.30.215.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DOTPAC-AU",
+          "description": "DEPARTMENT OF THE PREMIER AND CABINET",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "167.30.223.0/24",
+          "ip": "167.30.223.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DOTPAC-AU",
+          "description": "DEPARTMENT OF THE PREMIER AND CABINET",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "167.30.227.0/24",
+          "ip": "167.30.227.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DOTPAC-AU",
+          "description": "DEPARTMENT OF THE PREMIER AND CABINET",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "202.0.1.0/24",
+          "ip": "202.0.1.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPTOFMP-AU",
+          "description": "Department of Mines And Petroleum",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "202.0.2.0/24",
+          "ip": "202.0.2.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPTOFMP-AU",
+          "description": "Department of Mines And Petroleum",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "202.0.3.0/24",
+          "ip": "202.0.3.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPTOFMP-AU",
+          "description": "Department of Mines And Petroleum",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "202.0.4.0/24",
+          "ip": "202.0.4.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPTOFMP-AU",
+          "description": "Department of Mines And Petroleum",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "202.0.5.0/24",
+          "ip": "202.0.5.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPTOFMP-AU",
+          "description": "Department of Mines And Petroleum",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "202.0.6.0/24",
+          "ip": "202.0.6.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPTOFMP-AU",
+          "description": "Department of Mines And Petroleum",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "202.0.7.0/24",
+          "ip": "202.0.7.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPTOFMP-AU",
+          "description": "Department of Mines And Petroleum",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "202.0.8.0/24",
+          "ip": "202.0.8.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPTOFMP-AU",
+          "description": "Department of Mines And Petroleum",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "202.0.9.0/24",
+          "ip": "202.0.9.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPTOFMP-AU",
+          "description": "Department of Mines And Petroleum",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "202.0.10.0/24",
+          "ip": "202.0.10.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPTOFMP-AU",
+          "description": "Department of Mines And Petroleum",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "202.0.11.0/24",
+          "ip": "202.0.11.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPTOFMP-AU",
+          "description": "Department of Mines And Petroleum",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "202.0.12.0/24",
+          "ip": "202.0.12.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPTOFMP-AU",
+          "description": "Department of Mines And Petroleum",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "202.0.13.0/24",
+          "ip": "202.0.13.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPTOFMP-AU",
+          "description": "Department of Mines And Petroleum",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "202.0.14.0/24",
+          "ip": "202.0.14.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPTOFMP-AU",
+          "description": "Department of Mines And Petroleum",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "202.0.15.0/24",
+          "ip": "202.0.15.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPTOFMP-AU",
+          "description": "Department of Mines And Petroleum",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.0.172.0/24",
+          "ip": "203.0.172.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPT-HEALTH-WA-AU",
+          "description": "Metropolitan Health Service",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.0.173.0/24",
+          "ip": "203.0.173.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPT-HEALTH-WA-AU",
+          "description": "Metropolitan Health Service",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.0.174.0/24",
+          "ip": "203.0.174.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPT-HEALTH-WA-AU",
+          "description": "Metropolitan Health Service",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.0.175.0/24",
+          "ip": "203.0.175.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPT-HEALTH-WA-AU",
+          "description": "Metropolitan Health Service",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.11.108.0/24",
+          "ip": "203.11.108.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DAA-AU",
+          "description": "Department of Planning, Lands and Heritage",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.11.118.0/24",
+          "ip": "203.11.118.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPTOFMP-AU",
+          "description": "Department of Mines And Petroleum",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.11.119.0/24",
+          "ip": "203.11.119.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "COMMERCE-WA",
+          "description": "Department of Commerce (WA)",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.17.214.0/24",
+          "ip": "203.17.214.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DAA-AU",
+          "description": "Department of Planning, Lands and Heritage",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.19.209.0/24",
+          "ip": "203.19.209.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "COMMERCE-WA",
+          "description": "Department of Commerce (WA)",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.22.193.0/24",
+          "ip": "203.22.193.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPTOFMP-AU",
+          "description": "Department of Mines And Petroleum",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.25.176.0/24",
+          "ip": "203.25.176.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "OFFAUDGEN-AU",
+          "description": "Office of the Auditor General",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.27.77.0/24",
+          "ip": "203.27.77.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "COMMERCE-WA",
+          "description": "Department of Commerce (WA)",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.28.36.0/24",
+          "ip": "203.28.36.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WAINDRELATCOMM-AU",
+          "description": "Western Australian Industrial Relations Commission",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.29.49.0/24",
+          "ip": "203.29.49.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WORKCOVERWA-AU",
+          "description": "Work Cover Western Australia",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.33.230.0/24",
+          "ip": "203.33.230.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "COMMERCE-WA",
+          "description": "Department of Commerce (WA)",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.62.236.0/23",
+          "ip": "203.62.236.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "DOTPAC-AU",
+          "description": "DEPARTMENT OF THE PREMIER AND CABINET",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.62.239.0/24",
+          "ip": "203.62.239.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DOTPAC-AU",
+          "description": "DEPARTMENT OF THE PREMIER AND CABINET",
+          "country_code": "AU"
+        }
+      ]
+    }
+  }
+}

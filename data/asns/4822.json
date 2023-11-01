@@ -1,0 +1,54 @@
+{
+  "ts": 1698819557127,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "103.90.65.0/24",
+          "ip": "103.90.65.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NLA-AU",
+          "description": "National Library of Australia",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "192.102.239.0/24",
+          "ip": "192.102.239.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NLA-AU",
+          "description": "National Library of Australia",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "202.6.91.0/24",
+          "ip": "202.6.91.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NLA-AU",
+          "description": "National Library of Australia",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.4.200.0/22",
+          "ip": "203.4.200.0",
+          "cidr": 22,
+          "roa_status": "None",
+          "name": "NLA-AU",
+          "description": "National Library of Australia",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.15.226.0/24",
+          "ip": "203.15.226.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NLA2-AU",
+          "description": "National Library of Australia",
+          "country_code": "AU"
+        }
+      ]
+    }
+  }
+}

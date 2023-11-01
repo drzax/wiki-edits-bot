@@ -1,0 +1,18 @@
+{
+  "ts": 1698819567713,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "203.25.230.0/23",
+          "ip": "203.25.230.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "VICPOLICE-AU",
+          "description": "POLICE DEPARTMENT (VIC) t/a Victoria Police",
+          "country_code": "AU"
+        }
+      ]
+    }
+  }
+}

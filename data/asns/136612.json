@@ -1,0 +1,54 @@
+{
+  "ts": 1698801111034,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "202.14.133.0/24",
+          "ip": "202.14.133.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "AWR2",
+          "description": "Australia Western Railroad Railroad PTY LTD",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "202.14.132.0/23",
+            "ip": "202.14.132.0",
+            "cidr": 23,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "202.146.24.0/24",
+          "ip": "202.146.24.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "QRNET",
+          "description": "QRNET",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "202.240.0.0/12",
+            "ip": "202.240.0.0",
+            "cidr": 12,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "202.146.25.0/24",
+          "ip": "202.146.25.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "QRNET",
+          "description": "QRNET",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "202.146.24.0/22",
+            "ip": "202.146.24.0",
+            "cidr": 22,
+            "rir_name": "APNIC"
+          }
+        }
+      ]
+    }
+  }
+}

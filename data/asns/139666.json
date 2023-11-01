@@ -1,0 +1,18 @@
+{
+  "ts": 1698819536302,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "103.143.85.0/24",
+          "ip": "103.143.85.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "CCS-AU",
+          "description": "City of Charles Sturt",
+          "country_code": "AU"
+        }
+      ]
+    }
+  }
+}

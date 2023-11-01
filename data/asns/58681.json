@@ -1,0 +1,117 @@
+{
+  "ts": 1698819444131,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "166.64.0.0/23",
+          "ip": "166.64.0.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "NSWPOLICE",
+          "description": "imported inetnum object for NSWPS",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "166.64.2.0/23",
+          "ip": "166.64.2.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "NSWPOLICE",
+          "description": "imported inetnum object for NSWPS",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "166.64.4.0/24",
+          "ip": "166.64.4.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NSWPOLICE",
+          "description": "imported inetnum object for NSWPS",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "166.64.5.0/24",
+          "ip": "166.64.5.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NSWPOLICE",
+          "description": "imported inetnum object for NSWPS",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "166.64.13.0/24",
+          "ip": "166.64.13.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NSWPOLICE",
+          "description": "imported inetnum object for NSWPS",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "166.64.14.0/24",
+          "ip": "166.64.14.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NSWPOLICE",
+          "description": "imported inetnum object for NSWPS",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "166.64.20.0/23",
+          "ip": "166.64.20.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "NSWPOLICE",
+          "description": "imported inetnum object for NSWPS",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "166.64.22.0/23",
+          "ip": "166.64.22.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "NSWPOLICE",
+          "description": "imported inetnum object for NSWPS",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "166.64.30.0/24",
+          "ip": "166.64.30.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NSWPOLICE",
+          "description": "imported inetnum object for NSWPS",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "166.64.40.0/24",
+          "ip": "166.64.40.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NSWPOLICE",
+          "description": "imported inetnum object for NSWPS",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "166.64.100.0/24",
+          "ip": "166.64.100.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NSWPOLICE",
+          "description": "imported inetnum object for NSWPS",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "166.64.112.0/24",
+          "ip": "166.64.112.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NSWPOLICE",
+          "description": "imported inetnum object for NSWPS",
+          "country_code": "AU"
+        }
+      ]
+    }
+  }
+}

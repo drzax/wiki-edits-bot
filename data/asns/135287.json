@@ -1,0 +1,27 @@
+{
+  "ts": 1698819458999,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "103.141.114.0/24",
+          "ip": "103.141.114.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TCOTCOS-AU",
+          "description": "The Council of the City of Sydney",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "103.212.66.0/24",
+          "ip": "103.212.66.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TCOTCOS-AU",
+          "description": "The Council of the City of Sydney",
+          "country_code": "AU"
+        }
+      ]
+    }
+  }
+}

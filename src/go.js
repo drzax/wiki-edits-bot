@@ -24,7 +24,7 @@ const go = async () => {
   const state = JSON.parse(await readFile(STATE_FILE, "utf-8"));
   const { lastRun = now } = state;
 
-  const prefixes = fetchPrefixes([
+  const asns = [
     ...federal,
     ...qld,
     ...nsw,
@@ -33,7 +33,9 @@ const go = async () => {
     ...nt,
     ...sa,
     ...vic,
-  ]);
+  ];
+
+  const prefixes = fetchPrefixes(asns);
   /** @type Awaited<ReturnType<typeof fetchContributions>> */
   const newContributions = [];
 
@@ -67,7 +69,13 @@ const go = async () => {
   });
 
   newContributions.forEach(async (d) => {
-    const text = `Someone on a network controlled by ${d.prefix.description} (${d.contribution.user}) edited the ${d.contribution.title} Wikipedia page anonymously.\n\n${d.contribution.comment}\n\nhttps://en.wikipedia.org/w/index.php?diff=prev&oldid=${d.contribution.revid}`;
+    const text = `Someone on a network controlled by ${d.prefix.description} (${
+      d.contribution.user
+    }) edited the ${d.contribution.title} Wikipedia page anonymously.\n\n${
+      d.contribution.comment ? d.contribution.comment + "\n\n" : ""
+    }\n\nhttps://en.wikipedia.org/w/index.php?diff=prev&oldid=${
+      d.contribution.revid
+    }`;
 
     if (process.argv.includes("--dry")) {
       console.log(`Would post: ${text}`);

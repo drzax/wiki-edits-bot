@@ -1,0 +1,63 @@
+{
+  "ts": 1698819528371,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "167.30.61.0/24",
+          "ip": "167.30.61.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DOTPAC-AU",
+          "description": "DEPARTMENT OF THE PREMIER AND CABINET",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "202.14.152.0/24",
+          "ip": "202.14.152.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPTGOVSPORTCULTURAL-NON-AU",
+          "description": "Department of Local Government, Sport and Cultural Industries",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.20.94.0/24",
+          "ip": "203.20.94.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPTGOVSPORTCULTURAL-NON-AU",
+          "description": "Department of Local Government, Sport and Cultural Industries",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.30.135.0/24",
+          "ip": "203.30.135.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPTGOVSPORTCULTURAL-NON-AU",
+          "description": "Department of Local Government, Sport and Cultural Industries",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.30.231.0/24",
+          "ip": "203.30.231.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPTGOVSPORTCULTURAL-NON-AU",
+          "description": "Department of Local Government, Sport and Cultural Industries",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.30.234.0/24",
+          "ip": "203.30.234.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DEPTGOVSPORTCULTURAL-NON-AU",
+          "description": "Department of Local Government, Sport and Cultural Industries",
+          "country_code": "AU"
+        }
+      ]
+    }
+  }
+}

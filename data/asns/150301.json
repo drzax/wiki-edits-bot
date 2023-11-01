@@ -1,0 +1,27 @@
+{
+  "ts": 1698819510254,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "159.52.0.0/16",
+          "ip": "159.52.0.0",
+          "cidr": 16,
+          "roa_status": "None",
+          "name": "WATERCORP-AU",
+          "description": "Water Corporation",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "159.52.239.0/24",
+          "ip": "159.52.239.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WATERCORP-AU",
+          "description": "Water Corporation",
+          "country_code": "AU"
+        }
+      ]
+    }
+  }
+}

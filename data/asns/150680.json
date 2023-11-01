@@ -1,0 +1,27 @@
+{
+  "ts": 1698819460332,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "103.27.1.0/24",
+          "ip": "103.27.1.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NSWFIRE",
+          "description": "NSW Fire Brigades",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "202.172.6.0/24",
+          "ip": "202.172.6.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "nswfire",
+          "description": "Government",
+          "country_code": "AU"
+        }
+      ]
+    }
+  }
+}

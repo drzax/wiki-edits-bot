@@ -1,0 +1,63 @@
+{
+  "ts": 1698819545290,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "192.190.180.0/24",
+          "ip": "192.190.180.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "STLIB-VIC",
+          "description": "imported inetnum object for SLV",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "202.137.64.0/19",
+          "ip": "202.137.64.0",
+          "cidr": 19,
+          "roa_status": "None",
+          "name": "STATELIBVIC-AU",
+          "description": "State Library of Victoria",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.10.72.0/23",
+          "ip": "203.10.72.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "STATELIBVIC-AU",
+          "description": "State Library of Victoria",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.17.215.0/24",
+          "ip": "203.17.215.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "STATELIBVIC-AU",
+          "description": "State Library of Victoria",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.27.47.0/24",
+          "ip": "203.27.47.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "STATELIBVIC-AU",
+          "description": "State Library of Victoria",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.30.97.0/24",
+          "ip": "203.30.97.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "VICNET2-AU",
+          "description": "Victoria's Network: VICNET (State Library of Victoria)",
+          "country_code": "AU"
+        }
+      ]
+    }
+  }
+}

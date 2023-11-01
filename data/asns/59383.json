@@ -1,0 +1,129 @@
+{
+  "ts": 1698801712694,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "143.119.96.0/20",
+          "ip": "143.119.96.0",
+          "cidr": 20,
+          "roa_status": "None",
+          "name": "OFS-GOVDC-NET1",
+          "description": "Office of Finance and Services, NSW Government",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "143.119.0.0/16",
+            "ip": "143.119.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "143.119.112.0/24",
+          "ip": "143.119.112.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "OFS-GOVDC-NET2",
+          "description": "Office of Finance and Services, NSW Government",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "143.119.0.0/16",
+            "ip": "143.119.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "143.119.208.0/20",
+          "ip": "143.119.208.0",
+          "cidr": 20,
+          "roa_status": "None",
+          "name": "OFS-GOVDC-NET3",
+          "description": "Office of Finance and Services, NSW Government",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "143.119.0.0/16",
+            "ip": "143.119.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "143.119.210.0/24",
+          "ip": "143.119.210.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "OFS-GOVDC-NET3",
+          "description": "Office of Finance and Services, NSW Government",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "143.119.0.0/16",
+            "ip": "143.119.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "143.119.211.0/24",
+          "ip": "143.119.211.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "OFS-GOVDC-NET3",
+          "description": "Office of Finance and Services, NSW Government",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "138.113.0.0/16",
+            "ip": "138.113.0.0",
+            "cidr": 16,
+            "rir_name": "ARIN"
+          }
+        },
+        {
+          "prefix": "143.119.223.0/24",
+          "ip": "143.119.223.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "OFS-GOVDC-NET3",
+          "description": "Office of Finance and Services, NSW Government",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "143.119.0.0/16",
+            "ip": "143.119.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "143.119.224.0/20",
+          "ip": "143.119.224.0",
+          "cidr": 20,
+          "roa_status": "None",
+          "name": "OFS-GOVDC-NET4",
+          "description": "Office of Finance and Services, NSW Government",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "139.15.0.0/16",
+            "ip": "139.15.0.0",
+            "cidr": 16,
+            "rir_name": "RIPE"
+          }
+        },
+        {
+          "prefix": "143.119.228.0/24",
+          "ip": "143.119.228.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "OFS-GOVDC-NET4",
+          "description": "Office of Finance and Services, NSW Government",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "143.119.0.0/16",
+            "ip": "143.119.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "ts": 1698819437902,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "103.52.1.0/24",
+          "ip": "103.52.1.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "SERVICENSW-AU",
+          "description": "SERVICE NSW DIVISION",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "103.224.160.0/24",
+          "ip": "103.224.160.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "SERVICENSW-AU",
+          "description": "SERVICE NSW DIVISION",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "143.119.160.0/24",
+          "ip": "143.119.160.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NSW-GOV-AC3",
+          "description": "Department of Customer Service",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "143.119.161.0/24",
+          "ip": "143.119.161.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NSW-GOV-AC3",
+          "description": "Department of Customer Service",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "143.119.162.0/24",
+          "ip": "143.119.162.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NSW-GOV-AC3",
+          "description": "Department of Customer Service",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "143.119.163.0/24",
+          "ip": "143.119.163.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NSW-GOV-AC3",
+          "description": "Department of Customer Service",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.3.220.0/22",
+          "ip": "203.3.220.0",
+          "cidr": 22,
+          "roa_status": "None",
+          "name": "DWR-AU",
+          "description": "Department of Customer Service",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.3.232.0/22",
+          "ip": "203.3.232.0",
+          "cidr": 22,
+          "roa_status": "None",
+          "name": "DWR-AU",
+          "description": "Department of Customer Service",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.3.232.0/24",
+          "ip": "203.3.232.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DWR-AU",
+          "description": "Department of Customer Service",
+          "country_code": "AU"
+        }
+      ]
+    }
+  }
+}

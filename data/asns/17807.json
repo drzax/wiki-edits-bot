@@ -1,0 +1,54 @@
+{
+  "ts": 1698801105597,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "203.10.59.0/24",
+          "ip": "203.10.59.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "SLQ-AU",
+          "description": "State Library of Queensland",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.10.59.0/24",
+            "ip": "203.10.59.0",
+            "cidr": 24,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "203.17.70.0/24",
+          "ip": "203.17.70.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "QLDLIB-AU",
+          "description": "State Library of Queensland",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.17.70.0/24",
+            "ip": "203.17.70.0",
+            "cidr": 24,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "203.27.98.0/24",
+          "ip": "203.27.98.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "QLDARTGALLERY-AU",
+          "description": "Queensland Art Gallery",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.27.98.0/24",
+            "ip": "203.27.98.0",
+            "cidr": 24,
+            "rir_name": "APNIC"
+          }
+        }
+      ]
+    }
+  }
+}

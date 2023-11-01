@@ -1,0 +1,18 @@
+{
+  "ts": 1698819466534,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "103.161.252.0/24",
+          "ip": "103.161.252.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "DOCS-AU",
+          "description": "Department of Customer Service",
+          "country_code": "AU"
+        }
+      ]
+    }
+  }
+}

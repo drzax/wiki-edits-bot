@@ -1,0 +1,45 @@
+{
+  "ts": 1698819455292,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "192.231.59.0/24",
+          "ip": "192.231.59.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "SLNSW",
+          "description": "State Library of New South Wales",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "202.0.106.0/24",
+          "ip": "202.0.106.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "SLNSW",
+          "description": "State Library of New South Wales",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.8.118.0/24",
+          "ip": "203.8.118.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "SLNSW",
+          "description": "State Library of New South Wales",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.8.119.0/24",
+          "ip": "203.8.119.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "SLNSW",
+          "description": "State Library of New South Wales",
+          "country_code": "AU"
+        }
+      ]
+    }
+  }
+}

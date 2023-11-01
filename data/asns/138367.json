@@ -1,0 +1,27 @@
+{
+  "ts": 1698819461691,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "103.131.208.0/24",
+          "ip": "103.131.208.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TFNSWOS-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "103.131.209.0/24",
+          "ip": "103.131.209.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "TFNSWOS-AU",
+          "description": "Transport for NSW",
+          "country_code": "AU"
+        }
+      ]
+    }
+  }
+}

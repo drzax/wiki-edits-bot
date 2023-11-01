@@ -1,0 +1,24 @@
+{
+  "ts": 1698801104638,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "103.17.132.0/22",
+          "ip": "103.17.132.0",
+          "cidr": 22,
+          "roa_status": "None",
+          "name": "ICC-AU",
+          "description": "Ipswich City Council",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "103.17.132.0/22",
+            "ip": "103.17.132.0",
+            "cidr": 22,
+            "rir_name": "APNIC"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "ts": 1698819470988,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "161.50.0.0/16",
+          "ip": "161.50.0.0",
+          "cidr": 16,
+          "roa_status": "None",
+          "name": "ACTGOV-AU",
+          "description": "ACT Government InTACT Group",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.62.3.0/24",
+          "ip": "203.62.3.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "ACTSCHOOLS5-AU",
+          "description": "ACT Department of Education",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.62.4.0/22",
+          "ip": "203.62.4.0",
+          "cidr": 22,
+          "roa_status": "None",
+          "name": "ACTSCHOOLS4-AU",
+          "description": "ACT Department of Education",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.62.8.0/21",
+          "ip": "203.62.8.0",
+          "cidr": 21,
+          "roa_status": "None",
+          "name": "ACTSCHOOLS3-AU",
+          "description": "ACT Department of Education",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.62.16.0/20",
+          "ip": "203.62.16.0",
+          "cidr": 20,
+          "roa_status": "None",
+          "name": "ACTSCHOOLS2-AU",
+          "description": "ACT Department of Education",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.62.32.0/19",
+          "ip": "203.62.32.0",
+          "cidr": 19,
+          "roa_status": "None",
+          "name": "ACTSCHOOLS1-AU",
+          "description": "ACT Department of Education",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.62.64.0/18",
+          "ip": "203.62.64.0",
+          "cidr": 18,
+          "roa_status": "None",
+          "name": "ACTSCHOOLS-AU",
+          "description": "ACT Department of Education",
+          "country_code": "AU"
+        }
+      ]
+    }
+  }
+}

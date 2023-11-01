@@ -20,6 +20,7 @@ const fetchASNPrefixes = async (asn) => {
     const data = ASNPrefixesQueryResult.parse(await res.json());
     return data;
   } catch (e) {
+    console.error(e);
     return null;
   }
 };
@@ -75,7 +76,7 @@ export async function* fetchPrefixes(asns) {
   for (let i = 0; i < asns.length; i++) {
     const asn = asns[i];
     const data = await getCachedASNPrefixes(asn);
-    if (data === null) return;
+    if (data === null) continue;
     for (let j = 0; j < data.data.ipv4_prefixes.length; j++) {
       yield data.data.ipv4_prefixes[j];
     }

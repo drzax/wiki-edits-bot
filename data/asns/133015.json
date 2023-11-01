@@ -1,0 +1,18 @@
+{
+  "ts": 1698819534611,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "203.21.40.0/24",
+          "ip": "203.21.40.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "STIRLINGCC-AU",
+          "description": "City of Stirling",
+          "country_code": "AU"
+        }
+      ]
+    }
+  }
+}

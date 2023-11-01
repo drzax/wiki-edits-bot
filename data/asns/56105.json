@@ -1,0 +1,63 @@
+{
+  "ts": 1698819562126,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "203.12.60.0/24",
+          "ip": "203.12.60.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "VICDET-AU",
+          "description": "Department of Education and Training - Victoria",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.12.61.0/24",
+          "ip": "203.12.61.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "VICDET-AU",
+          "description": "Department of Education and Training - Victoria",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.12.62.0/24",
+          "ip": "203.12.62.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "VICDET-AU",
+          "description": "Department of Education and Training - Victoria",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.12.63.0/24",
+          "ip": "203.12.63.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "VICDET-AU",
+          "description": "Department of Education and Training - Victoria",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.22.144.0/24",
+          "ip": "203.22.144.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "VICDET-AU",
+          "description": "Department of Education and Training - Victoria",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "203.22.145.0/24",
+          "ip": "203.22.145.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "VICDET-AU",
+          "description": "Department of Education and Training - Victoria",
+          "country_code": "AU"
+        }
+      ]
+    }
+  }
+}

@@ -13,12 +13,6 @@ export const IPv4Prefix = z.object({
   name: z.string(),
   description: z.string(),
   country_code: z.string(),
-  parent: z.object({
-    prefix: z.string(),
-    ip: z.string(),
-    cidr: z.number(),
-    rir_name: z.string(),
-  }),
 });
 
 /** @typedef { z.infer<typeof IPv4Prefix> IPv4Prefix} */
@@ -32,7 +26,9 @@ export const WikimediaUserContribution = z.object({
   ns: z.number(),
   title: z.string(),
   timestamp: z.string(),
-  comment: z.string(),
+  comment: z.string().optional(),
+  commenthidden: z.string().optional(),
+  texthidden: z.string().optional(),
   size: z.number(),
 });
 /** @typedef { z.infer<typeof WikimediaUserContribution> WikimediaUserContribution} */

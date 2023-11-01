@@ -1,0 +1,18 @@
+{
+  "ts": 1698819454311,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "203.19.160.0/22",
+          "ip": "203.19.160.0",
+          "cidr": 22,
+          "roa_status": "None",
+          "name": "CAMPBELLTOWN-CC-AU",
+          "description": "Campbelltown City Council",
+          "country_code": "AU"
+        }
+      ]
+    }
+  }
+}

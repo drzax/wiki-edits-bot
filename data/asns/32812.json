@@ -1,0 +1,18 @@
+{
+  "ts": 1698819465586,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "67.132.119.0/24",
+          "ip": "67.132.119.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "CENTURYLINK-LEGACY-QWEST-INET-11",
+          "description": "CenturyLink Communications, LLC",
+          "country_code": "US"
+        }
+      ]
+    }
+  }
+}

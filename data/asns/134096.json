@@ -1,0 +1,444 @@
+{
+  "ts": 1698801716431,
+  "result": {
+    "data": {
+      "ipv4_prefixes": [
+        {
+          "prefix": "152.76.0.0/24",
+          "ip": "152.76.0.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "RPAH",
+          "description": "imported inetnum object for RPAH",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "152.76.0.0/16",
+            "ip": "152.76.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "152.76.1.0/24",
+          "ip": "152.76.1.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "RPAH",
+          "description": "imported inetnum object for RPAH",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "146.185.214.0/23",
+            "ip": "146.185.214.0",
+            "cidr": 23,
+            "rir_name": "RIPE"
+          }
+        },
+        {
+          "prefix": "152.76.2.0/24",
+          "ip": "152.76.2.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "RPAH",
+          "description": "imported inetnum object for RPAH",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "152.76.0.0/16",
+            "ip": "152.76.0.0",
+            "cidr": 16,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "156.22.3.0/24",
+          "ip": "156.22.3.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NTHSYDLHD",
+          "description": "Northern Sydney Local Health District",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "156.22.0.0/17",
+            "ip": "156.22.0.0",
+            "cidr": 17,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "156.22.8.0/24",
+          "ip": "156.22.8.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NTHSYDLHD",
+          "description": "Northern Sydney Local Health District",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "156.22.0.0/17",
+            "ip": "156.22.0.0",
+            "cidr": 17,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "156.22.240.0/21",
+          "ip": "156.22.240.0",
+          "cidr": 21,
+          "roa_status": "None",
+          "name": "EHEALTHNSW-AU",
+          "description": "eHealth NSW",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "156.22.240.0/20",
+            "ip": "156.22.240.0",
+            "cidr": 20,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "156.22.242.0/23",
+          "ip": "156.22.242.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "EHEALTHNSW-AU",
+          "description": "eHealth NSW",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "156.22.240.0/20",
+            "ip": "156.22.240.0",
+            "cidr": 20,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "156.22.244.0/24",
+          "ip": "156.22.244.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "EHEALTHNSW-AU",
+          "description": "eHealth NSW",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "156.22.240.0/20",
+            "ip": "156.22.240.0",
+            "cidr": 20,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "156.22.246.0/24",
+          "ip": "156.22.246.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "EHEALTHNSW-AU",
+          "description": "eHealth NSW",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "156.22.240.0/20",
+            "ip": "156.22.240.0",
+            "cidr": 20,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "156.22.248.0/21",
+          "ip": "156.22.248.0",
+          "cidr": 21,
+          "roa_status": "None",
+          "name": "EHEALTHNSW-AU",
+          "description": "eHealth NSW",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "156.22.240.0/20",
+            "ip": "156.22.240.0",
+            "cidr": 20,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "156.22.252.0/24",
+          "ip": "156.22.252.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "EHEALTHNSW-AU",
+          "description": "eHealth NSW",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "154.236.0.0/14",
+            "ip": "154.236.0.0",
+            "cidr": 14,
+            "rir_name": "AfriNIC"
+          }
+        },
+        {
+          "prefix": "156.22.254.0/24",
+          "ip": "156.22.254.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "EHEALTHNSW-AU",
+          "description": "eHealth NSW",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "156.22.240.0/20",
+            "ip": "156.22.240.0",
+            "cidr": 20,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "202.9.74.0/24",
+          "ip": "202.9.74.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "HNEHEALTH-AU",
+          "description": "Locked bag No 1",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "202.9.74.0/24",
+            "ip": "202.9.74.0",
+            "cidr": 24,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "202.58.231.0/24",
+          "ip": "202.58.231.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "NSWDOH-AU",
+          "description": "73 Miller Street",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "202.58.230.0/23",
+            "ip": "202.58.230.0",
+            "cidr": 23,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "203.1.16.0/24",
+          "ip": "203.1.16.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "IAHS-AU",
+          "description": "Illawarra Area Health Service",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.1.16.0/24",
+            "ip": "203.1.16.0",
+            "cidr": 24,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "203.5.81.0/24",
+          "ip": "203.5.81.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "SWSAHS-AU",
+          "description": "South Western Sydney Area Health Service",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.76.192.0/20",
+            "ip": "203.76.192.0",
+            "cidr": 20,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "203.5.82.0/24",
+          "ip": "203.5.82.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "SWSAHS-AU",
+          "description": "South Western Sydney Area Health Service",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.5.80.0/20",
+            "ip": "203.5.80.0",
+            "cidr": 20,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "203.5.104.0/24",
+          "ip": "203.5.104.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "EHEALTHNSW-AU",
+          "description": "eHealth NSW",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.5.104.0/21",
+            "ip": "203.5.104.0",
+            "cidr": 21,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "203.5.105.0/24",
+          "ip": "203.5.105.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "EHEALTHNSW-AU",
+          "description": "eHealth NSW",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.5.104.0/21",
+            "ip": "203.5.104.0",
+            "cidr": 21,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "203.5.106.0/24",
+          "ip": "203.5.106.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "EHEALTHNSW-AU",
+          "description": "eHealth NSW",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.5.104.0/21",
+            "ip": "203.5.104.0",
+            "cidr": 21,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "203.5.108.0/23",
+          "ip": "203.5.108.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "EHEALTHNSW-AU",
+          "description": "eHealth NSW",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.5.104.0/21",
+            "ip": "203.5.104.0",
+            "cidr": 21,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "203.5.110.0/23",
+          "ip": "203.5.110.0",
+          "cidr": 23,
+          "roa_status": "None",
+          "name": "EHEALTHNSW-AU",
+          "description": "eHealth NSW",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.5.104.0/21",
+            "ip": "203.5.104.0",
+            "cidr": 21,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "203.10.53.0/24",
+          "ip": "203.10.53.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "SESLHD-AU",
+          "description": "South East Sydney Local Health District",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.10.48.0/21",
+            "ip": "203.10.48.0",
+            "cidr": 21,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "203.10.54.0/24",
+          "ip": "203.10.54.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "SESLHD-AU",
+          "description": "South East Sydney Local Health District",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.10.48.0/21",
+            "ip": "203.10.48.0",
+            "cidr": 21,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "203.10.55.0/24",
+          "ip": "203.10.55.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "SESLHD-AU",
+          "description": "South East Sydney Local Health District",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.10.48.0/21",
+            "ip": "203.10.48.0",
+            "cidr": 21,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "203.11.125.0/24",
+          "ip": "203.11.125.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "SNSWLHD-AU",
+          "description": "Southern New South Wales Local Health District",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.11.125.0/24",
+            "ip": "203.11.125.0",
+            "cidr": 24,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "203.18.200.0/24",
+          "ip": "203.18.200.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "SESAHS-AU",
+          "description": "South East Sydney Local Health District",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.18.200.0/22",
+            "ip": "203.18.200.0",
+            "cidr": 22,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "203.18.201.0/24",
+          "ip": "203.18.201.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "SESAHS-AU",
+          "description": "South East Sydney Local Health District",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.18.200.0/22",
+            "ip": "203.18.200.0",
+            "cidr": 22,
+            "rir_name": "APNIC"
+          }
+        },
+        {
+          "prefix": "203.32.142.0/24",
+          "ip": "203.32.142.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "WSAHS-AU",
+          "description": "Western Sydney Area Health Service",
+          "country_code": "AU",
+          "parent": {
+            "prefix": "203.32.142.0/24",
+            "ip": "203.32.142.0",
+            "cidr": 24,
+            "rir_name": "APNIC"
+          }
+        }
+      ]
+    }
+  }
+}
