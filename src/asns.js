@@ -7,7 +7,7 @@ import {
   CachedASNPrefixesQueryResult,
 } from "./schemas.js";
 
-const cacheExpire = 1000 * 60 * 60 * 24 * 7;
+const cacheExpire = 1000 * 60 * 60 * 24 * 30;
 
 /**
  * Fetch ASN prefix data from the pgpview.io API
@@ -59,8 +59,8 @@ export const getCachedASNPrefixes = async (asn, now = Date.now()) => {
         result,
       };
       writeFile(filename, JSON.stringify(data, undefined, 2), "utf-8");
+      return result;
     }
-    return result;
   }
 
   return cached.result;
