@@ -3,7 +3,8 @@ import { z } from "zod";
 export const State = z.object({
   lastRun: z.number().optional(),
 });
-/** @typedef { z.infer<typeof State} State } */
+
+/** @typedef { z.infer<typeof State> } State */
 
 export const IPv4Prefix = z.object({
   prefix: z.string(),
@@ -15,7 +16,7 @@ export const IPv4Prefix = z.object({
   country_code: z.string(),
 });
 
-/** @typedef { z.infer<typeof IPv4Prefix> IPv4Prefix} */
+/** @typedef { z.infer<typeof IPv4Prefix> } IPv4Prefix */
 
 export const WikimediaUserContribution = z.object({
   userid: z.number(),
@@ -31,24 +32,24 @@ export const WikimediaUserContribution = z.object({
   texthidden: z.string().optional(),
   size: z.number(),
 });
-/** @typedef { z.infer<typeof WikimediaUserContribution> WikimediaUserContribution} */
+/** @typedef { z.infer<typeof WikimediaUserContribution> } WikimediaUserContribution */
 
 export const WikimediaUserContributionsResult = z.object({
   query: z.object({
     usercontribs: z.array(WikimediaUserContribution),
   }),
 });
-/** @typedef { z.infer<typeof WikimediaUserContributionsResult> WikimediaUserContributionsResult} */
+/** @typedef { z.infer<typeof WikimediaUserContributionsResult> } WikimediaUserContributionsResult */
 
 export const ASNPrefixesQueryResult = z.object({
   data: z.object({
     ipv4_prefixes: z.array(IPv4Prefix),
   }),
 });
-/** @typedef { z.infer<typeof ASNPrefixesQueryResult> ASNPrefixesQueryResult} */
+/** @typedef { z.infer<typeof ASNPrefixesQueryResult> } ASNPrefixesQueryResult */
 
 export const CachedASNPrefixesQueryResult = z.object({
   ts: z.number(),
   result: ASNPrefixesQueryResult,
 });
-/** @typedef { z.infer<typeof CachedASNPrefixesQueryResult> CachedASNPrefixesQueryResult} */
+/** @typedef { z.infer<typeof CachedASNPrefixesQueryResult> } CachedASNPrefixesQueryResult */

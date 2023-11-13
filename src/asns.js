@@ -44,26 +44,26 @@ export const getCachedASNPrefixes = async (asn, now = Date.now()) => {
       )
     );
     if (cached.ts < now - cacheExpire) {
-      throw new Error("Cached query has expired");
+      console.log(`Refreshing cached ASN data for ${asn}`);
+
+      // Either the query has never been cached or it has expired.
+      const result = await fetchASNPrefixes(asn);
+
+      if (result !== null) {
+        /** @type CachedASNPrefixesQueryResult */
+        const data = {
+          ts: now,
+          result,
+        };
+        writeFile(filename, JSON.stringify(data, undefined, 2), "utf-8");
+        return result;
+      }
+    } else {
+      return cached.result;
     }
   } catch (e) {
-    console.log(`Refreshing cached ASN data for ${asn}`);
-
-    // Either the query has never been cached or it has expired.
-    const result = await fetchASNPrefixes(asn);
-
-    if (result !== null) {
-      /** @type CachedASNPrefixesQueryResult */
-      const data = {
-        ts: now,
-        result,
-      };
-      writeFile(filename, JSON.stringify(data, undefined, 2), "utf-8");
-      return result;
-    }
+    console.error(e);
   }
-
-  return cached.result;
 };
 
 /**
@@ -76,7 +76,7 @@ export async function* fetchPrefixes(asns) {
   for (let i = 0; i < asns.length; i++) {
     const asn = asns[i];
     const data = await getCachedASNPrefixes(asn);
-    if (data === null) continue;
+    if (typeof data === "undefined") continue;
     for (let j = 0; j < data.data.ipv4_prefixes.length; j++) {
       yield data.data.ipv4_prefixes[j];
     }
