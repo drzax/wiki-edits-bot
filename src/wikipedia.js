@@ -1,3 +1,4 @@
+// @ts-check
 import { IPv4Prefix, WikimediaUserContributionsResult } from "./schemas.js";
 
 /**
@@ -6,9 +7,20 @@ import { IPv4Prefix, WikimediaUserContributionsResult } from "./schemas.js";
  * @returns
  */
 export const fetchContributions = async (prefix) => {
-  const res = await fetch(
-    `https://en.wikipedia.org/w/api.php?action=query&list=usercontribs&uclimit=max&ucdir=older&uciprange=${prefix.prefix}&format=json`
-  );
+  const now = new Date();
+  const lastYear = new Date();
+  lastYear.setFullYear(now.getFullYear() - 1);
+  const url = new URL("https://en.wikipedia.org/w/api.php");
+  url.searchParams.set("action", "query");
+  url.searchParams.set("list", "usercontribs");
+  url.searchParams.set("uclimit", "max");
+  url.searchParams.set("ucdir", "older");
+  url.searchParams.set("ucstart", now.toISOString());
+  url.searchParams.set("ucend", lastYear.toISOString());
+  url.searchParams.set("uciprange", prefix.prefix);
+  url.searchParams.set("format", "json");
+
+  const res = await fetch(url.href);
   console.log(`Fetching contributions for ${prefix.name} (${prefix.prefix})`);
   const data = WikimediaUserContributionsResult.parse(await res.json());
   return data.query.usercontribs.map((contribution) => ({
