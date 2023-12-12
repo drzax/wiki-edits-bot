@@ -8,6 +8,7 @@ import {
 } from "./schemas.js";
 
 const cacheExpire = 1000 * 60 * 60 * 24 * 30;
+let fetchError = false;
 
 /**
  * Fetch ASN prefix data from the pgpview.io API
@@ -15,6 +16,7 @@ const cacheExpire = 1000 * 60 * 60 * 24 * 30;
  * @param {string} asn
  */
 const fetchASNPrefixes = async (asn) => {
+  if (fetchError) return null;
   const url = `https://api.bgpview.io/asn/${asn}/prefixes`;
   try {
     const res = await fetch(url);
@@ -23,6 +25,7 @@ const fetchASNPrefixes = async (asn) => {
   } catch (e) {
     console.error(`Error fetching ${url}`);
     console.error(e);
+    fetchError = true;
     return null;
   }
 };
