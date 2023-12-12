@@ -15,11 +15,13 @@ const cacheExpire = 1000 * 60 * 60 * 24 * 30;
  * @param {string} asn
  */
 const fetchASNPrefixes = async (asn) => {
+  const url = `https://api.bgpview.io/asn/${asn}/prefixes`;
   try {
-    const res = await fetch(`https://api.bgpview.io/asn/${asn}/prefixes`);
+    const res = await fetch(url);
     const data = ASNPrefixesQueryResult.parse(await res.json());
     return data;
   } catch (e) {
+    console.error(`Error fetching ${url}`);
     console.error(e);
     return null;
   }
@@ -58,9 +60,8 @@ export const getCachedASNPrefixes = async (asn, now = Date.now()) => {
         writeFile(filename, JSON.stringify(data, undefined, 2), "utf-8");
         return result;
       }
-    } else {
-      return cached.result;
     }
+    return cached.result;
   } catch (e) {
     console.error(e);
   }
