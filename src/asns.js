@@ -16,7 +16,6 @@ let fetchError = false;
  * @param {string} asn
  */
 const fetchASNPrefixes = async (asn) => {
-  if (fetchError) return null;
   const url = `https://api.bgpview.io/asn/${asn}/prefixes`;
   try {
     const res = await fetch(url);
@@ -48,7 +47,7 @@ export const getCachedASNPrefixes = async (asn, now = Date.now()) => {
         existsSync(filename) ? await readFile(filename, "utf-8") : "{}"
       )
     );
-    if (cached.ts < now - cacheExpire) {
+    if (cached.ts < now - cacheExpire && !fetchError) {
       console.log(`Refreshing cached ASN data for ${asn}`);
 
       // Either the query has never been cached or it has expired.
