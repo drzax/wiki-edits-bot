@@ -3,11 +3,11 @@
   "module": "src/go.js",
   "type": "module",
   "devDependencies": {
-    "@types/node": "^20.8.9",
+    "@types/node": "^22.15.17",
     "typescript": "^5.2.2"
   },
   "dependencies": {
-    "masto": "^6.3.3",
+    "masto": "^7.1.0",
     "zod": "^3.22.2"
   },
   "scripts": {
