@@ -1,5 +1,5 @@
 {
-  "ts": 1698563594516,
+  "ts": 1747131514567,
   "result": {
     "data": {
       "ipv4_prefixes": [
@@ -10,13 +10,7 @@
           "roa_status": "Valid",
           "name": "COMCARE",
           "description": "Comcare",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "163.233.0.0/16",
-            "ip": "163.233.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         }
       ]
     }

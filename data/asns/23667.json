@@ -1,24 +1,8 @@
 {
-  "ts": 1698563563834,
+  "ts": 1747130307596,
   "result": {
     "data": {
-      "ipv4_prefixes": [
-        {
-          "prefix": "134.178.0.0/16",
-          "ip": "134.178.0.0",
-          "cidr": 16,
-          "roa_status": "None",
-          "name": "MET-AUST-NET",
-          "description": "imported inetnum object for BUREAU",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "134.178.0.0/16",
-            "ip": "134.178.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
-        }
-      ]
+      "ipv4_prefixes": []
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "ts": 1698563558487,
+  "ts": 1747130304947,
   "result": {
     "data": {
       "ipv4_prefixes": [
@@ -8,30 +8,9 @@
           "ip": "164.97.0.0",
           "cidr": 16,
           "roa_status": "None",
-          "name": "DIBP",
-          "description": "DEPARTMENT OF IMMIGRATION AND BORDER PROTECTION",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "164.97.0.0/16",
-            "ip": "164.97.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
-        },
-        {
-          "prefix": "164.97.40.0/24",
-          "ip": "164.97.40.0",
-          "cidr": 24,
-          "roa_status": "None",
-          "name": "DIBP",
-          "description": "DEPARTMENT OF IMMIGRATION AND BORDER PROTECTION",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "164.51.0.0/16",
-            "ip": "164.51.0.0",
-            "cidr": 16,
-            "rir_name": "ARIN"
-          }
+          "name": "DEPTHOMEAFFAIRS-AU",
+          "description": "Department of Home Affairs",
+          "country_code": "AU"
         }
       ]
     }

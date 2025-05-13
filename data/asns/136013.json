@@ -1,5 +1,5 @@
 {
-  "ts": 1698563600973,
+  "ts": 1747131745546,
   "result": {
     "data": {
       "ipv4_prefixes": [
@@ -10,13 +10,7 @@
           "roa_status": "None",
           "name": "NATGALLERY-AU",
           "description": "National Gallery of Australia",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "203.20.18.0/23",
-            "ip": "203.20.18.0",
-            "cidr": 23,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         }
       ]
     }

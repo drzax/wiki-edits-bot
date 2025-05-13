@@ -1,5 +1,5 @@
 {
-  "ts": 1698563581355,
+  "ts": 1747131501432,
   "result": {
     "data": {
       "ipv4_prefixes": [
@@ -10,13 +10,7 @@
           "roa_status": "Valid",
           "name": "NBNCO-AU",
           "description": "NBN Co LTD",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "103.111.168.0/22",
-            "ip": "103.111.168.0",
-            "cidr": 22,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "103.111.168.0/22",
@@ -25,13 +19,7 @@
           "roa_status": "Valid",
           "name": "NBNCO-AU",
           "description": "NBN Co LTD",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "103.111.168.0/22",
-            "ip": "103.111.168.0",
-            "cidr": 22,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "103.111.170.0/23",
@@ -40,43 +28,7 @@
           "roa_status": "Valid",
           "name": "NBNCO-AU",
           "description": "NBN Co LTD",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "103.111.168.0/22",
-            "ip": "103.111.168.0",
-            "cidr": 22,
-            "rir_name": "APNIC"
-          }
-        },
-        {
-          "prefix": "110.238.160.0/20",
-          "ip": "110.238.160.0",
-          "cidr": 20,
-          "roa_status": "Valid",
-          "name": "NBNCO-AU",
-          "description": "NBN Co LTD",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "110.238.160.0/19",
-            "ip": "110.238.160.0",
-            "cidr": 19,
-            "rir_name": "APNIC"
-          }
-        },
-        {
-          "prefix": "110.238.160.0/22",
-          "ip": "110.238.160.0",
-          "cidr": 22,
-          "roa_status": "Valid",
-          "name": "NBNCO-AU",
-          "description": "NBN Co LTD",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "110.238.160.0/19",
-            "ip": "110.238.160.0",
-            "cidr": 19,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "110.238.160.0/21",
@@ -85,28 +37,25 @@
           "roa_status": "Valid",
           "name": "NBNCO-AU",
           "description": "NBN Co LTD",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "110.238.160.0/19",
-            "ip": "110.238.160.0",
-            "cidr": 19,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
-          "prefix": "110.238.168.0/21",
-          "ip": "110.238.168.0",
-          "cidr": 21,
+          "prefix": "110.238.160.0/22",
+          "ip": "110.238.160.0",
+          "cidr": 22,
           "roa_status": "Valid",
           "name": "NBNCO-AU",
           "description": "NBN Co LTD",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "110.238.160.0/19",
-            "ip": "110.238.160.0",
-            "cidr": 19,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
+        },
+        {
+          "prefix": "110.238.160.0/20",
+          "ip": "110.238.160.0",
+          "cidr": 20,
+          "roa_status": "Valid",
+          "name": "NBNCO-AU",
+          "description": "NBN Co LTD",
+          "country_code": "AU"
         },
         {
           "prefix": "110.238.168.0/22",
@@ -115,13 +64,16 @@
           "roa_status": "Valid",
           "name": "NBNCO-AU",
           "description": "NBN Co LTD",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "110.238.160.0/19",
-            "ip": "110.238.160.0",
-            "cidr": 19,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
+        },
+        {
+          "prefix": "110.238.168.0/21",
+          "ip": "110.238.168.0",
+          "cidr": 21,
+          "roa_status": "Valid",
+          "name": "NBNCO-AU",
+          "description": "NBN Co LTD",
+          "country_code": "AU"
         },
         {
           "prefix": "110.238.176.0/21",
@@ -130,13 +82,7 @@
           "roa_status": "Valid",
           "name": "NBNCO-AU",
           "description": "NBN Co LTD",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "110.238.160.0/19",
-            "ip": "110.238.160.0",
-            "cidr": 19,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "110.238.180.0/22",
@@ -145,13 +91,7 @@
           "roa_status": "Valid",
           "name": "NBNCO-AU",
           "description": "NBN Co LTD",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "110.238.160.0/19",
-            "ip": "110.238.160.0",
-            "cidr": 19,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "110.238.182.0/23",
@@ -160,13 +100,7 @@
           "roa_status": "Valid",
           "name": "NBNCO-AU",
           "description": "NBN Co LTD",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "110.238.160.0/19",
-            "ip": "110.238.160.0",
-            "cidr": 19,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         }
       ]
     }

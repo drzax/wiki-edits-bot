@@ -1,67 +1,43 @@
 {
-  "ts": 1698563561414,
+  "ts": 1747130305697,
   "result": {
     "data": {
       "ipv4_prefixes": [
-        {
-          "prefix": "147.66.0.0/16",
-          "ip": "147.66.0.0",
-          "cidr": 16,
-          "roa_status": "None",
-          "name": "DAWE-AU",
-          "description": "DEPARTMENT OF AGRICULTURE WATER AND THE ENVIRONMENT",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "147.66.0.0/16",
-            "ip": "147.66.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
-        },
         {
           "prefix": "147.66.0.0/17",
           "ip": "147.66.0.0",
           "cidr": 17,
           "roa_status": "None",
-          "name": "DAWE-AU",
-          "description": "DEPARTMENT OF AGRICULTURE WATER AND THE ENVIRONMENT",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "147.66.0.0/16",
-            "ip": "147.66.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "name": "DAFF-AU",
+          "description": "Department of Agriculture, Fisheries and Forestry",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "147.66.0.0/16",
+          "ip": "147.66.0.0",
+          "cidr": 16,
+          "roa_status": "None",
+          "name": "DAFF-AU",
+          "description": "Department of Agriculture, Fisheries and Forestry",
+          "country_code": "AU"
         },
         {
           "prefix": "147.66.128.0/17",
           "ip": "147.66.128.0",
           "cidr": 17,
           "roa_status": "None",
-          "name": "DAWE-AU",
-          "description": "DEPARTMENT OF AGRICULTURE WATER AND THE ENVIRONMENT",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "147.66.0.0/16",
-            "ip": "147.66.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "name": "DOCCETEAW-AU",
+          "description": "Department of Climate Change Energy the Environment and Water",
+          "country_code": "AU"
         },
         {
           "prefix": "147.66.248.0/21",
           "ip": "147.66.248.0",
           "cidr": 21,
           "roa_status": "None",
-          "name": "DAWE-AU",
-          "description": "DEPARTMENT OF AGRICULTURE WATER AND THE ENVIRONMENT",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "147.66.0.0/16",
-            "ip": "147.66.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "name": "DAFF-AU",
+          "description": "Department of Agriculture, Fisheries and Forestry",
+          "country_code": "AU"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "ts": 1698563595686,
+  "ts": 1747131742166,
   "result": {
     "data": {
       "ipv4_prefixes": [
@@ -10,13 +10,7 @@
           "roa_status": "None",
           "name": "SBS-AU",
           "description": "Special Broadcasting Service",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "203.15.96.0/21",
-            "ip": "203.15.96.0",
-            "cidr": 21,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         }
       ]
     }

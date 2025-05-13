@@ -1,5 +1,5 @@
 {
-  "ts": 1698563528160,
+  "ts": 1747130281361,
   "result": {
     "data": {
       "ipv4_prefixes": [
@@ -10,28 +10,7 @@
           "roa_status": "Valid",
           "name": "CSIRO-STLC",
           "description": "imported inetnum object for CIS-56",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "146.118.0.0/16",
-            "ip": "146.118.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
-        },
-        {
-          "prefix": "180.149.248.0/22",
-          "ip": "180.149.248.0",
-          "cidr": 22,
-          "roa_status": "None",
-          "name": "UWA-AP",
-          "description": "The University of Western Australia",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "180.149.248.0/22",
-            "ip": "180.149.248.0",
-            "cidr": 22,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "192.65.130.0/24",
@@ -40,13 +19,7 @@
           "roa_status": "Valid",
           "name": "BIOM-PERTH",
           "description": "Commonwealth Scientific and Industrial",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "192.65.130.0/24",
-            "ip": "192.65.130.0",
-            "cidr": 24,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "192.102.250.0/23",
@@ -55,58 +28,34 @@
           "roa_status": "Valid",
           "name": "ISB-NET",
           "description": "Commonwealth Scientific and Industrial",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "192.102.250.0/23",
-            "ip": "192.102.250.0",
-            "cidr": 23,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "202.8.32.0/21",
           "ip": "202.8.32.0",
           "cidr": 21,
-          "roa_status": "None",
+          "roa_status": "Valid",
           "name": "APNIC-AP",
           "description": "Asia Pacific Network Information Centre",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "202.8.32.0/24",
-            "ip": "202.8.32.0",
-            "cidr": 24,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "202.9.8.0/22",
           "ip": "202.9.8.0",
           "cidr": 22,
-          "roa_status": "None",
+          "roa_status": "Valid",
           "name": "CSIRO-AU",
           "description": "Commonwealth Scientific and Industrial Research Organisation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "201.112.0.0/13",
-            "ip": "201.112.0.0",
-            "cidr": 13,
-            "rir_name": "Lacnic"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "202.9.12.0/23",
           "ip": "202.9.12.0",
           "cidr": 23,
-          "roa_status": "None",
+          "roa_status": "Valid",
           "name": "CSIRO-AU",
           "description": "Commonwealth Scientific and Industrial Research Organisation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "202.9.0.0/20",
-            "ip": "202.9.0.0",
-            "cidr": 20,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         }
       ]
     }

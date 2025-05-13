@@ -1,5 +1,5 @@
 {
-  "ts": 1698563537747,
+  "ts": 1747130288837,
   "result": {
     "data": {
       "ipv4_prefixes": [
@@ -10,13 +10,7 @@
           "roa_status": "None",
           "name": "AUST-POST",
           "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "155.144.0.0/17",
@@ -25,13 +19,7 @@
           "roa_status": "None",
           "name": "AUST-POST",
           "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "155.144.16.0/22",
@@ -40,13 +28,7 @@
           "roa_status": "None",
           "name": "AUST-POST",
           "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "155.144.24.0/24",
@@ -55,13 +37,7 @@
           "roa_status": "None",
           "name": "AUST-POST",
           "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "155.144.25.0/24",
@@ -70,13 +46,7 @@
           "roa_status": "None",
           "name": "AUST-POST",
           "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "155.144.26.0/24",
@@ -85,13 +55,7 @@
           "roa_status": "None",
           "name": "AUST-POST",
           "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "155.144.27.0/24",
@@ -100,28 +64,7 @@
           "roa_status": "None",
           "name": "AUST-POST",
           "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
-        },
-        {
-          "prefix": "155.144.38.0/24",
-          "ip": "155.144.38.0",
-          "cidr": 24,
-          "roa_status": "None",
-          "name": "AUST-POST",
-          "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "155.144.47.0/24",
@@ -130,28 +73,7 @@
           "roa_status": "None",
           "name": "AUST-POST",
           "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
-        },
-        {
-          "prefix": "155.144.50.0/24",
-          "ip": "155.144.50.0",
-          "cidr": 24,
-          "roa_status": "None",
-          "name": "AUST-POST",
-          "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "155.144.50.0/23",
@@ -160,13 +82,16 @@
           "roa_status": "None",
           "name": "AUST-POST",
           "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
+        },
+        {
+          "prefix": "155.144.50.0/24",
+          "ip": "155.144.50.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "AUST-POST",
+          "description": "Australian Postal Corporation",
+          "country_code": "AU"
         },
         {
           "prefix": "155.144.51.0/24",
@@ -175,28 +100,7 @@
           "roa_status": "None",
           "name": "AUST-POST",
           "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
-        },
-        {
-          "prefix": "155.144.52.0/24",
-          "ip": "155.144.52.0",
-          "cidr": 24,
-          "roa_status": "None",
-          "name": "AUST-POST",
-          "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "155.144.52.0/23",
@@ -205,13 +109,16 @@
           "roa_status": "None",
           "name": "AUST-POST",
           "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
+        },
+        {
+          "prefix": "155.144.52.0/24",
+          "ip": "155.144.52.0",
+          "cidr": 24,
+          "roa_status": "None",
+          "name": "AUST-POST",
+          "description": "Australian Postal Corporation",
+          "country_code": "AU"
         },
         {
           "prefix": "155.144.53.0/24",
@@ -220,103 +127,7 @@
           "roa_status": "None",
           "name": "AUST-POST",
           "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
-        },
-        {
-          "prefix": "155.144.58.0/24",
-          "ip": "155.144.58.0",
-          "cidr": 24,
-          "roa_status": "None",
-          "name": "AUST-POST",
-          "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
-        },
-        {
-          "prefix": "155.144.59.0/24",
-          "ip": "155.144.59.0",
-          "cidr": 24,
-          "roa_status": "None",
-          "name": "AUST-POST",
-          "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
-        },
-        {
-          "prefix": "155.144.60.0/24",
-          "ip": "155.144.60.0",
-          "cidr": 24,
-          "roa_status": "None",
-          "name": "AUST-POST",
-          "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
-        },
-        {
-          "prefix": "155.144.61.0/24",
-          "ip": "155.144.61.0",
-          "cidr": 24,
-          "roa_status": "None",
-          "name": "AUST-POST",
-          "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
-        },
-        {
-          "prefix": "155.144.62.0/24",
-          "ip": "155.144.62.0",
-          "cidr": 24,
-          "roa_status": "None",
-          "name": "AUST-POST",
-          "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
-        },
-        {
-          "prefix": "155.144.63.0/24",
-          "ip": "155.144.63.0",
-          "cidr": 24,
-          "roa_status": "None",
-          "name": "AUST-POST",
-          "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "155.144.101.0/24",
@@ -325,13 +136,7 @@
           "roa_status": "None",
           "name": "AUST-POST",
           "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "155.144.112.0/24",
@@ -340,13 +145,7 @@
           "roa_status": "None",
           "name": "AUST-POST",
           "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "155.144.113.0/24",
@@ -355,13 +154,7 @@
           "roa_status": "None",
           "name": "AUST-POST",
           "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "155.144.114.0/24",
@@ -370,13 +163,7 @@
           "roa_status": "None",
           "name": "AUST-POST",
           "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "155.144.116.0/24",
@@ -385,13 +172,7 @@
           "roa_status": "None",
           "name": "AUST-POST",
           "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "160.3.0.0/16",
-            "ip": "160.3.0.0",
-            "cidr": 16,
-            "rir_name": "ARIN"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "155.144.117.0/24",
@@ -400,13 +181,7 @@
           "roa_status": "None",
           "name": "AUST-POST",
           "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "155.144.128.0/17",
@@ -415,13 +190,7 @@
           "roa_status": "None",
           "name": "AUST-POST",
           "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "155.144.251.0/24",
@@ -430,13 +199,7 @@
           "roa_status": "None",
           "name": "AUST-POST",
           "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "155.144.0.0/16",
-            "ip": "155.144.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "155.144.253.0/24",
@@ -445,13 +208,7 @@
           "roa_status": "None",
           "name": "AUST-POST",
           "description": "Australian Postal Corporation",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "159.192.0.0/16",
-            "ip": "159.192.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "203.171.5.0/24",
@@ -460,13 +217,7 @@
           "roa_status": "None",
           "name": "STARTRACKEXPRESS",
           "description": "Star Track Express Pty Limited",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "203.171.5.0/24",
-            "ip": "203.171.5.0",
-            "cidr": 24,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         }
       ]
     }

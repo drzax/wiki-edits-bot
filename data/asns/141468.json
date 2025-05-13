@@ -1,22 +1,16 @@
 {
-  "ts": 1698563552944,
+  "ts": 1747130298621,
   "result": {
     "data": {
       "ipv4_prefixes": [
         {
-          "prefix": "158.40.0.0/16",
-          "ip": "158.40.0.0",
+          "prefix": "156.16.0.0/16",
+          "ip": "156.16.0.0",
           "cidr": 16,
           "roa_status": "Valid",
           "name": "PMC-AU",
           "description": "Department of the Prime Minister and Cabinet",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "158.40.0.0/16",
-            "ip": "158.40.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "158.40.0.0/24",
@@ -25,13 +19,16 @@
           "roa_status": "Valid",
           "name": "PMC-AU",
           "description": "Department of the Prime Minister and Cabinet",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "158.40.0.0/16",
-            "ip": "158.40.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
+        },
+        {
+          "prefix": "158.40.0.0/16",
+          "ip": "158.40.0.0",
+          "cidr": 16,
+          "roa_status": "Valid",
+          "name": "PMC-AU",
+          "description": "Department of the Prime Minister and Cabinet",
+          "country_code": "AU"
         },
         {
           "prefix": "158.40.1.0/24",
@@ -40,13 +37,7 @@
           "roa_status": "Valid",
           "name": "PMC-AU",
           "description": "Department of the Prime Minister and Cabinet",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "158.40.0.0/16",
-            "ip": "158.40.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "158.40.2.0/23",
@@ -55,13 +46,7 @@
           "roa_status": "Valid",
           "name": "PMC-AU",
           "description": "Department of the Prime Minister and Cabinet",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "158.40.0.0/16",
-            "ip": "158.40.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "158.40.4.0/23",
@@ -70,13 +55,7 @@
           "roa_status": "Valid",
           "name": "PMC-AU",
           "description": "Department of the Prime Minister and Cabinet",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "158.40.0.0/16",
-            "ip": "158.40.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "158.40.6.0/23",
@@ -85,13 +64,7 @@
           "roa_status": "Valid",
           "name": "PMC-AU",
           "description": "Department of the Prime Minister and Cabinet",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "158.40.0.0/16",
-            "ip": "158.40.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "158.40.8.0/23",
@@ -100,13 +73,7 @@
           "roa_status": "Valid",
           "name": "PMC-AU",
           "description": "Department of the Prime Minister and Cabinet",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "158.40.0.0/16",
-            "ip": "158.40.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "158.40.10.0/23",
@@ -115,13 +82,7 @@
           "roa_status": "Valid",
           "name": "PMC-AU",
           "description": "Department of the Prime Minister and Cabinet",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "158.40.0.0/16",
-            "ip": "158.40.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "158.40.12.0/22",
@@ -130,13 +91,7 @@
           "roa_status": "Valid",
           "name": "PMC-AU",
           "description": "Department of the Prime Minister and Cabinet",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "158.40.0.0/16",
-            "ip": "158.40.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "158.40.16.0/20",
@@ -145,13 +100,7 @@
           "roa_status": "Valid",
           "name": "PMC-AU",
           "description": "Department of the Prime Minister and Cabinet",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "158.40.0.0/16",
-            "ip": "158.40.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "158.40.32.0/19",
@@ -160,13 +109,7 @@
           "roa_status": "Valid",
           "name": "PMC-AU",
           "description": "Department of the Prime Minister and Cabinet",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "158.40.0.0/16",
-            "ip": "158.40.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "158.40.64.0/18",
@@ -175,13 +118,7 @@
           "roa_status": "Valid",
           "name": "PMC-AU",
           "description": "Department of the Prime Minister and Cabinet",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "158.40.0.0/16",
-            "ip": "158.40.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         },
         {
           "prefix": "158.40.128.0/17",
@@ -190,13 +127,7 @@
           "roa_status": "Valid",
           "name": "PMC-AU",
           "description": "Department of the Prime Minister and Cabinet",
-          "country_code": "AU",
-          "parent": {
-            "prefix": "158.40.0.0/16",
-            "ip": "158.40.0.0",
-            "cidr": 16,
-            "rir_name": "APNIC"
-          }
+          "country_code": "AU"
         }
       ]
     }
