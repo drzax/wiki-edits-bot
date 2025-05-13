@@ -13,8 +13,6 @@ IP address ranges to check for edits are collected in two steps:
 
 If you think there are missing ASNs or any have been included erroniously, please [raise a ticket](https://github.com/drzax/wiki-edits-bot/issues/new).
 
-Right now it only posts about federal government organisations, but that might change.
-
 ## Wikipedia data
 
 A [usercontribs](https://www.mediawiki.org/w/api.php?action=help&modules=query%2Busercontribs) query is run for all collected IP address ranges on the Wikipedia API.
