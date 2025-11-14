@@ -1,5 +1,5 @@
 {
-  "ts": 1747130284530,
+  "ts": 1763099404605,
   "result": {
     "data": {
       "ipv4_prefixes": [
@@ -7,6 +7,42 @@
           "prefix": "144.218.0.0/16",
           "ip": "144.218.0.0",
           "cidr": 16,
+          "roa_status": "Valid",
+          "name": "ABC-AU",
+          "description": "Australian Broadcasting Corporation",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "144.218.0.0/21",
+          "ip": "144.218.0.0",
+          "cidr": 21,
+          "roa_status": "Valid",
+          "name": "ABC-AU",
+          "description": "Australian Broadcasting Corporation",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "144.218.8.0/21",
+          "ip": "144.218.8.0",
+          "cidr": 21,
+          "roa_status": "Valid",
+          "name": "ABC-AU",
+          "description": "Australian Broadcasting Corporation",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "144.218.16.0/21",
+          "ip": "144.218.16.0",
+          "cidr": 21,
+          "roa_status": "Valid",
+          "name": "ABC-AU",
+          "description": "Australian Broadcasting Corporation",
+          "country_code": "AU"
+        },
+        {
+          "prefix": "144.218.24.0/21",
+          "ip": "144.218.24.0",
+          "cidr": 21,
           "roa_status": "Valid",
           "name": "ABC-AU",
           "description": "Australian Broadcasting Corporation",

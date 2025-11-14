@@ -1,21 +1,21 @@
 {
-  "ts": 1747130288837,
+  "ts": 1763099409631,
   "result": {
     "data": {
       "ipv4_prefixes": [
         {
-          "prefix": "155.144.0.0/16",
+          "prefix": "155.144.0.0/17",
           "ip": "155.144.0.0",
-          "cidr": 16,
+          "cidr": 17,
           "roa_status": "None",
           "name": "AUST-POST",
           "description": "Australian Postal Corporation",
           "country_code": "AU"
         },
         {
-          "prefix": "155.144.0.0/17",
+          "prefix": "155.144.0.0/16",
           "ip": "155.144.0.0",
-          "cidr": 17,
+          "cidr": 16,
           "roa_status": "None",
           "name": "AUST-POST",
           "description": "Australian Postal Corporation",
@@ -103,18 +103,18 @@
           "country_code": "AU"
         },
         {
-          "prefix": "155.144.52.0/23",
+          "prefix": "155.144.52.0/24",
           "ip": "155.144.52.0",
-          "cidr": 23,
+          "cidr": 24,
           "roa_status": "None",
           "name": "AUST-POST",
           "description": "Australian Postal Corporation",
           "country_code": "AU"
         },
         {
-          "prefix": "155.144.52.0/24",
+          "prefix": "155.144.52.0/23",
           "ip": "155.144.52.0",
-          "cidr": 24,
+          "cidr": 23,
           "roa_status": "None",
           "name": "AUST-POST",
           "description": "Australian Postal Corporation",
