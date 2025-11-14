@@ -22,7 +22,13 @@ export const fetchContributions = async (prefix) => {
 
   const res = await fetch(url.href);
   console.log(`Fetching contributions for ${prefix.name} (${prefix.prefix})`);
-  const data = WikimediaUserContributionsResult.parse(await res.json());
+  const json = await res.json();
+  const { data, success, error } =
+    WikimediaUserContributionsResult.safeParse(json);
+  if (!success) {
+    console.error(error, json);
+    return [];
+  }
   return data.query.usercontribs.map((contribution) => ({
     prefix,
     contribution,
