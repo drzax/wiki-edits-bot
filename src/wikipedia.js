@@ -22,7 +22,14 @@ export const fetchContributions = async (prefix) => {
 
   const res = await fetch(url.href);
   console.log(`Fetching contributions for ${prefix.name} (${prefix.prefix})`);
-  const json = await res.json();
+  const json = await res.json().catch((e) => {
+    console.error(`Error fetching JSON: ${e.message}`);
+    console.error(` → ${url.href}`);
+    return false;
+  });
+
+  if (json === false) return [];
+
   const { data, success, error } =
     WikimediaUserContributionsResult.safeParse(json);
   if (!success) {
