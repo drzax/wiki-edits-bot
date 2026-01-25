@@ -10,22 +10,27 @@ import { IPv4Prefix, WikimediaUserContributionsResult } from "./schemas.js";
 const fetchJson = async (href, backoff=0) => {
 
   if (backoff) {
-    const ms = 100 * Math.pow(2, backoff);
+    const ms = 300 * Math.pow(2, backoff);
     console.log(` → Backing off ${ms} milliseconds`);
   await new Promise(resolve => setTimeout(resolve, ms))
   }
 
   const res = await fetch(href);
-  
-  return res.json().catch((e) => {
+
+  if (res.status !== 200) {
     console.error(` → Error fetching: ${href}`);
-    console.error(` → ${e.message}`);
     console.error(` → ${res.status}: ${res.statusText}`);
     if (res.status === 429 && backoff < 10) {
       return fetchJson(href, backoff + 1)
     } else {
       return false;
     }
+  }
+  
+  return res.json().catch((e) => {
+    console.error(` → Error fetching: ${href}`);
+    console.error(` → ${e.message}`);
+    console.error(` → ${res.status}: ${res.statusText}`);
   });
 }
 
@@ -57,7 +62,9 @@ export const fetchContributions = async (prefix) => {
     WikimediaUserContributionsResult.safeParse(json);
 
   if (!success) {
-    console.error(error, json);
+    console.error(` → Error parsing JSON`)
+    console.error(` → ${JSON.stringify(json)}`)
+    console.error(` → ${error.toString()}`);
     return [];
   }
   return data.query.usercontribs.map((contribution) => ({
