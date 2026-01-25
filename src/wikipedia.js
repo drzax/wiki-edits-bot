@@ -24,7 +24,9 @@ export const fetchContributions = async (prefix) => {
   console.log(`Fetching contributions for ${prefix.name} (${prefix.prefix})`);
   const json = await res.json().catch((e) => {
     console.error(`Error fetching JSON: ${e.message}`);
+    console.error(` → ${res.status}: ${res.statusText}`);
     console.error(` → ${url.href}`);
+    console.error(` → ${res.body}`);
     return false;
   });
 
