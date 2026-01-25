@@ -11,7 +11,7 @@ const fetchJson = async (href, backoff=0) => {
 
   if (backoff) {
     const ms = 100 * Math.pow(2, backoff);
-    console.log(` → Backing off ${ms}milliseconds`);
+    console.log(` → Backing off ${ms} milliseconds`);
   await new Promise(resolve => setTimeout(resolve, ms))
   }
 
