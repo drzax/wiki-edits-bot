@@ -12,7 +12,7 @@ const fetchJson = async (href, backoff=0) => {
   if (backoff) {
     const ms = 300 * Math.pow(2, backoff);
     console.log(` → Backing off ${ms} milliseconds`);
-  await new Promise(resolve => setTimeout(resolve, ms))
+    await new Promise(resolve => setTimeout(resolve, ms))
   }
 
   const res = await fetch(href);
@@ -21,7 +21,7 @@ const fetchJson = async (href, backoff=0) => {
     console.error(` → Error fetching: ${href}`);
     console.error(` → ${res.status}: ${res.statusText}`);
     if (res.status === 429 && backoff < 10) {
-      return fetchJson(href, backoff + 1)
+      return await fetchJson(href, backoff + 1)
     } else {
       return false;
     }
@@ -31,6 +31,7 @@ const fetchJson = async (href, backoff=0) => {
     console.error(` → Error fetching: ${href}`);
     console.error(` → ${e.message}`);
     console.error(` → ${res.status}: ${res.statusText}`);
+    return false;
   });
 }
 
@@ -67,6 +68,9 @@ export const fetchContributions = async (prefix) => {
     console.error(` → ${error.toString()}`);
     return [];
   }
+
+  console.log(` → Success!`)
+
   return data.query.usercontribs.map((contribution) => ({
     prefix,
     contribution,
