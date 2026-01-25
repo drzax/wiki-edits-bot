@@ -10,7 +10,7 @@ import { IPv4Prefix, WikimediaUserContributionsResult } from "./schemas.js";
 const fetchJson = async (href, backoff=0) => {
 
   if (backoff) {
-    const ms = 10 * Math.pow(2, backoff);
+    const ms = 100 * Math.pow(2, backoff);
     console.log(` → Backing off ${ms}milliseconds`);
   await new Promise(resolve => setTimeout(resolve, ms))
   }
